@@ -22,4 +22,15 @@ cd "$folder"/comuni/
 rm -r $(grep -riL 'User-Agent:' ./*txt)
 
 # risposta server
-mlr --n2c put -S '$CF=gsub(FILENAME,"_code","")' then label code then unsparsify "$folder"/comuni/*_code >"$folder"/comuni/robotsComuniRisposte.csv
+mlr --n2c put -S '$CF=regextract(FILENAME,"[0-9]{6,}")' then label code then unsparsify "$folder"/comuni/*_code >"$folder"/comuni/robotsComuniRisposte.csv
+
+# produzione file di report
+mlr --tsv --implicit-csv-header then label url,cf "$folder"/source.tsv >"$folder"/tmp_source.tsv
+mlr --t2c join --ul -j cf -l cf -r Cf -f "$folder"/tmp_source.tsv then unsparsify "$folder"/amministrazioni.tsv >"$folder"/tmp_report.csv
+mlr --csv join --ul -j cf -l cf -r CF -f "$folder"/tmp_report.csv then unsparsify then rename code,HTTPreply "$folder"/comuni/robotsComuniRisposte.csv >"$folder"/tmp_report01.csv
+
+ls -1a "$folder"/comuni/*txt | mlr --csv --implicit-csv-header then put '$1=regextract($1,"[0-9]{6,}")' then label cf then put '$robots="x"' >"$folder"/tmp_robots.csv
+
+mlr --csv join --ul -j cf -f "$folder"/tmp_report01.csv then unsparsify then sort -f cf "$folder"/tmp_robots.csv >"$folder"/report.csv
+
+rm "$folder"/tmp*
