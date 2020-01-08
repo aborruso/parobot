@@ -1,0 +1,15 @@
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Netmechanic
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: *
+Disallow: /media/
+Disallow: /ajax/

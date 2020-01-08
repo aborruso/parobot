@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin_aree/
+Disallow: /admin_uffici/
+Disallow: /costruttore/
+Disallow: /foto%20dei%20navigatori/
+Disallow: /foto%20di%20Lesina/
+Disallow: /giochi/
+Disallow: /images/
+Disallow: /immagini/
+Disallow: /chat/
+Disallow: /public/
+Disallow: /mdb-database/
+Disallow: /acred/
+Disallow: /sondaggio/
+Disallow: /z4/

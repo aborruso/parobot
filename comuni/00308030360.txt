@@ -1,0 +1,48 @@
+# robots.txt
+# by Christian Leporati lepo@comune.carpi.mo.it  // 22/05/2001 rev. 0.0.1 
+#
+# file per l'esclusione degli spider dalle parti 'calde' del sito. 
+
+
+User-agent: *
+Disallow: /cgi/                        # disabilita l'accesso alla dir /cgi/ 
+Disallow: /c4sql-campogalliano/cgi/    # disabilita l'accesso alla dir /c4sql-campogalliano/cgi/ 
+Disallow: /djre09rmn!3qapzXXXte/
+
+# altre
+Disallow: /facile/anagrafe/documenti/
+Disallow: /facile/anagrafe/esecuzione/
+Disallow: /facile/certificati/documenti/
+Disallow: /facile/certificati/esecuzione/
+Disallow: /facile/cerca
+Disallow: /facile/commercio/documenti/
+Disallow: /facile/commercio/esecuzione/
+Disallow: /facile/cultura/documenti/
+Disallow: /facile/cultura/esecuzione/
+Disallow: /facile/edilizia/documenti/
+Disallow: /facile/edilizia/esecuzione/
+Disallow: /facile/elettorale/documenti/
+Disallow: /facile/elettorale/esecuzione/
+Disallow: /facile/giovani/documenti/
+Disallow: /facile/giovani/esecuzione/
+Disallow: /facile/lavori_pubblici/documenti/
+Disallow: /facile/lavori_pubblici/esecuzione/
+Disallow: /facile/messo/documenti/
+Disallow: /facile/messo/esecuzione/
+Disallow: /facile/protocollo/documenti/
+Disallow: /facile/protocollo/esecuzione/
+Disallow: /facile/scuola/documenti/
+Disallow: /facile/scuola/esecuzione/
+Disallow: /facile/servizi_sociali/documenti/
+Disallow: /facile/servizi_sociali/esecuzione/
+Disallow: /facile/sport/documenti/
+Disallow: /facile/sport/esecuzione/
+Disallow: /facile/sportello_al_cittadino/documenti/
+Disallow: /facile/sportello_al_cittadino/esecuzione/
+Disallow: /facile/stato_civile/documenti/
+Disallow: /facile/stato_civile/esecuzione/
+Disallow: /facile/tempo_libero/documenti/
+Disallow: /facile/tempo_libero/esecuzione/
+Disallow: /facile/tributi/documenti/
+Disallow: /facile/tributi/esecuzione/
+Disallow: /pagine/

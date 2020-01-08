@@ -1,0 +1,74 @@
+User-agent: *
+Disallow: /segnalazioni/*
+Disallow: /db/*
+Disallow: /at/*
+Disallow: /ab/*
+Disallow: /aa/*
+Disallow: /web/wp-includes/
+Disallow: /web/readme.html
+Disallow: /web/license.txt
+Disallow: /web/xmlrpc.php
+Disallow: /web/wp-login.php
+Disallow: /web/wp-register.php
+Allow: /web/wp-content/uploads/
+Sitemap: https://www.comune.preganziol.tv.it/sitemap.xml
+
+
+# Some bots are known to be trouble, particularly those designed to copy
+# entire sites. Please obey robots.txt.
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: Zealbot
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Fetch
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.comune.imer.tn.it/sitemap.xml

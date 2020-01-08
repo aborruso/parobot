@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: per=stampa
+Disallow: /*per=stampa
+Disallow: /doccons/
+Disallow: /archnotizie/
+Disallow: /uffici/dipgenpers/provveditoratogarecontratti/provveditorato/oggetti/oggetti-rinvenuti.php
+Disallow: /uffici/settextra/polizia/notizie.php/71390
+Disallow: /servizi/opendata/opendata.php
+Disallow: /sit/ecografico/
+Disallow: /cittadino/scheda.php/50552,149275
+Disallow: /cittadino/scheda.php/42719,149275
+Disallow: /sit/
+Disallow: /opendata/opendata.php
+Disallow: /servizi/opendata.php
+Disallow: /servizi/contravvenzioni/conferma.php
+Disallow: /amministrazione/areaconsiglio/
+

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /it/down.php
+Disallow: /it/down2.php

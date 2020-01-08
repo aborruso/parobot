@@ -1,0 +1,30 @@
+# comune di Reggio Emilia 26.07.2019
+
+User-agent: *
+Disallow: /sottositi/*/idAdminTable/
+Disallow: /Sottositi/*/idAdminTable/
+Disallow: /Sottositi/*/idAdminTablePortlet/
+Disallow: /Sottositi/*/idAdminTableElencoGruppi/
+Disallow: /ambiente/infoambsito.nsf/
+Disallow: /retecivica/urp/pes.nsf/web/tst?opendocument&Dal*
+Disallow: /Biblioteche/panizzi.nsf/
+Disallow: /ufficiostampa/consigliocom.nsf/PESIdDoc/1C469BB0DF240240C12577AE0033C937/$file/Verbale%20CC%2004.10.2010.pdf
+Disallow: /ufficiostampa/consigliocom.nsf/PESIdDoc/AC2B4B4CD85AC188C1257657003D6993/$file/Verbale%20CC%2026.10.2009.pdf
+Disallow: /UfficioStampa/comunicatistampa.nsf/PESIdDoc/1BFC19AA87347610C125765200352A23/$file/Spadoni%20-%20Aeroporto%20_16.10.09_.pdf
+Disallow: /retecivica/urp/pes.nsf/web/Mppdlst3
+Disallow: /retecivica/urp/home2005.nsf/
+Disallow: /IAT/siat.nsf/
+Disallow: /IAT/iatRE.nsf/
+Disallow: /retecivica/urp/HomePage.nsf/WebElencoDocumento/
+Disallow: /retecivica/urp/HomePage.nsf/WebElencoCentrale/
+Disallow: /retecivica/urp/HomePage.nsf/WebElencoMenu/
+Disallow: /retecivica/urp/HomePage.nsf/WebElencoSlider/
+Disallow: /retecivica/urp/HomePage.nsf/WebElencoClick/
+Disallow: /retecivica/urp/HomePage.nsf/WebElencoFooter/
+Disallow: /retecivica/urp/HomePage.nsf/WebElencoGruppi/
+Disallow: /retecivica/urp/retecivi.nsf/code/
+Disallow: /retecivica/urp/retecivi.nsf/documentIDStampa/
+Disallow: /retecivica/urp/HomePage.nsf/web/HmPgVstLght?opendocument
+Disallow: www.oda.comune.re.it
+Disallow: /retecivica/urp/regolamenti.nsf/PES-TitoloWebCategoria/33D8B622AB08DEE8C12579C9005BD200?opendocument
+Disallow: https://openapps.comune.re.it/jattipubblicazioni/AttiPubblicazioni?servizio=Allegato&idDocumentale=161865

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/uploads/amministrazione-trasparente/
+Disallow: /wp-content/uploads/albo-pretorio/
+Disallow: /wp-content/uploads/albonline/
+Disallow: /wp-content/uploads/wp-content/uploads/albonline/
+Disallow: /amministrazione-trasparente/
+Disallow: /albo-pretorio/
+Disallow: /guida/

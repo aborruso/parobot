@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /quarantesimo/index.html
+Allow: /index.asp
+Allow: /modulisica.asp
+Allow: /in-comune.asp
+Allow: /modulisica.asp
+Allow: /geonew.asp
+Allow: /visitachiari.asp
+Allow: /la.citta.asp
+Allow: /contatti.asp
+Allow: /come-fare-per.asp
+Allow: /servizi-on-line.asp
+Allow: /news.asp
+Allow: /progetti.asp
+Disallow: /

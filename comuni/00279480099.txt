@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/albenga_ecm8/bandi
+Disallow: /upload/albenga_ecm8/delibere
+Disallow: /upload/albenga_ecm8/regolamenti
+Disallow: /upload/albenga_ecm8/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

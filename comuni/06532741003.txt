@@ -1,0 +1,6 @@
+	User-agent: *
+	
+	Disallow: /administrator/
+	Disallow: /documenti/
+
+	sitemap: https://www.castellidellasapienza.it/

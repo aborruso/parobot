@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/vergiate1/bandi
+Disallow: /upload/vergiate1/delibere
+Disallow: /upload/vergiate1/regolamenti
+Disallow: /upload/vergiate1/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

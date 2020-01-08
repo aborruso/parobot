@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/borghettosantospirito/bandi
+Disallow: /upload/borghettosantospirito/delibere
+Disallow: /upload/borghettosantospirito/regolamenti
+Disallow: /upload/borghettosantospirito/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

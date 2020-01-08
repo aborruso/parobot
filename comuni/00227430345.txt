@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/fontanellato/bandi
+Disallow: /upload/fontanellato/delibere
+Disallow: /upload/fontanellato/regolamenti
+Disallow: /upload/fontanellato/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/
+Disallow: /amministrazione-trasparente/

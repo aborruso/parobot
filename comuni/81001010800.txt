@@ -1,0 +1,20 @@
+User-Agent: *
+Disallow: site/css/
+Disallow: site/images/
+Disallow: site/_img/
+Disallow: site/allegati/
+Disallow: site/_dwn_catalogo/
+Disallow: site/foto/
+Disallow: site/style.css/
+Disallow: site/slides/
+Disallow: site/js/ 
+Disallow: site/inc.bar_info.php
+Disallow: site/inc.fancy.php
+Disallow: site/inc.footer.php
+Disallow: site/inc.foto_header.php
+Disallow: site/inc.link_veloci.php
+
+
+
+Allow: / site/index.php
+

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /docs/atti/
+Disallow: /ente/albo/
+Disallow: /ente/atti/
+Disallow: /download/
+Disallow: /assets/
+Disallow: /css/
+Disallow: /img-slider/
+Disallow: /js/
+Disallow: /css/
+Disallow: /uploads/

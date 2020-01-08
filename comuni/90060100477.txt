@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.comune.abetonecutigliano.pt.it/sitemaps/sitemap.xml

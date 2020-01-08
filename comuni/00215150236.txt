@@ -1,0 +1,39 @@
+User-agent: Googlebot
+User-agent: Google
+User-agent: Googlebot-Mobile
+User-agent: bingbot
+User-agent: bing
+Crawl-delay: 10
+
+# Non voglio che i motori di ricerca indicizzino queste directory
+Disallow: /temp/
+Disallow: /cache/
+Disallow: /versioningmedia/
+Disallow: /stagingmedia/
+Disallow: /public_security/
+Disallow: /include/
+Disallow: /images/
+Disallow: /nqcontent/
+Disallow: /admin/
+Disallow: /quickedit/
+Disallow: /media/
+Disallow: /bannertrack/
+Disallow: /utils/
+Disallow: /templates/
+Disallow: /poll/
+
+#blocco di tutti i crawler a parte google e bing in testa al file
+User-agent: *
+Disallow: /
+
+#alcuni non leggono l'asterisco
+
+user-agent: AhrefsBot
+disallow: /
+User-Agent: HyperCrawl
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Disallow: /

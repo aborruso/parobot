@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /modelli/
+User-agent: *
+Allow: /
+
+Sitemap: https://www.navegratis.it/sitemap.xml

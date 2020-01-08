@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /operazione_trasparenza.asp
+Disallow: /pdf/CV_margariti.pdf

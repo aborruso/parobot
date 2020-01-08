@@ -1,0 +1,12 @@
+
+User-agent: *
+
+Sitemap: https://www.comune.arenzano.ge.it/sitemap.xml
+
+Disallow: /doc/
+Disallow: /install/
+Disallow: /modules/
+Disallow: /module_custom/
+Disallow: /plugins/
+Disallow: /scripts/
+Disallow: /tmp/

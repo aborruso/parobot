@@ -1,0 +1,24 @@
+Allow Googlebot
+User-agent: googlebot
+Allow: /
+
+User-agent: Googlebot-AdSense
+Allow: /
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Slurp/2.0
+Allow: /
+
+User-agent: MSNbot
+Allow: /
+
+User-agent: kinjabot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: ArchitextSpider
+Allow: /

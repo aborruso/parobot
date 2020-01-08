@@ -1,0 +1,5 @@
+Sitemap: https://comune.fagnanoolona.va.it/sitemap.xml
+Sitemap: https://comune.fagnanoolona.va.it/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

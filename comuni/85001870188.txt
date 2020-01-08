@@ -1,0 +1,10 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /migrazione/
+Disallow: /contenuti/eventi-passati/
+Disallow: /contenuti/notizie-passate/
+Disallow: /archivio-temporaneo-contenuti/workflow/
+Disallow: /contenuti/tempi/
+Disallow: /contenuti/notizie-carosello-passate/
+Disallow: /contenuti/pagine/elettorale-stato-civile-cimiteri/referendum-22-10-2017/
+Disallow: /comune/calendari-prenotazione/

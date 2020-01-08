@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /Classificazioni/
+Disallow: /backend/
+Disallow: /Comune/Organizzazione-comunale/Personale/*

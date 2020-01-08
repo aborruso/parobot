@@ -1,0 +1,15 @@
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: * 
+#User-agent: all
+Crawl-delay: 5
+
+

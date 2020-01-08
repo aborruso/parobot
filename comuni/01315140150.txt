@@ -1,0 +1,5 @@
+Sitemap: https://comune.settimomilanese.mi.it/sitemap.xml
+Sitemap: https://comune.settimomilanese.mi.it/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,4 @@
+User-agent: *
+Request-rate: 1/5
+Crawl-delay: 5
+

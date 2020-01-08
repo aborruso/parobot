@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+
+Disallow: /servizi/admin
+Disallow: /central/

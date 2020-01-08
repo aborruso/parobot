@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/castelmaggiore_ecm8/bandi
+Disallow: /upload/castelmaggiore_ecm8/delibere
+Disallow: /upload/castelmaggiore_ecm8/regolamenti
+Disallow: /upload/castelmaggiore_ecm8/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

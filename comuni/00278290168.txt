@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /gestione/
+Disallow: /404.php
+Disallow: /cookie-policy.php
+Disallow: /privacy-policy.php
+Disallow: /phpmailer/
+Disallow: /mailer_package/
+Disallow: /libs/
+
+Sitemap: https://www.comune.chiuduno.bg.it/sitemap.xml

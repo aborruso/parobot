@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/cavenagobrianza/bandi
+Disallow: /upload/cavenagobrianza/delibere
+Disallow: /upload/cavenagobrianza/regolamenti
+Disallow: /upload/cavenagobrianza/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

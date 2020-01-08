@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /Connections/
+Disallow: /_mmServerScripts/
+Disallow: /back/
+Disallow: /doc/
+Disallow: /obj/
+Disallow: /style/
+Disallow: /scripts/
+Disallow: /style/
+Disallow: /back.php

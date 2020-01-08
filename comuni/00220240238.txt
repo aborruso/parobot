@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/procedimenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/sanbonifacio_ecm8/bandi
+Disallow: /upload/sanbonifacio_ecm8/delibere
+Disallow: /upload/sanbonifacio_ecm8/regolamenti
+Disallow: /upload/sanbonifacio_ecm8/albopretorianorc
+Disallow: /upload/sanbonifacio_ecm8/procedimentiDisallow: /servizi/admin
+Disallow: /central/

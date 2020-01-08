@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin.php
+
+User-agent: AdsBot-Google
+Disallow: /admin.php
+
+User-agent: AdsBot-Google-Mobile
+Disallow: /admin.php
+
+

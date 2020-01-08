@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /segnalazioni-guasti-e-disservizi/
+Disallow: /segnalazioni-guasti-e-disservizi/?page=segnala

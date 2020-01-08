@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.comune.sinalunga.si.it/sitemaps/sitemap.xml

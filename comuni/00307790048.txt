@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cookies/
+Disallow: /errori/
+Disallow: /it/cookie-policy.php
+Disallow: /it/privacy-policy.php
+Disallow: /it/note-legali.php

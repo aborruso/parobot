@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /generale/
+Disallow: /public/
+Disallow: /contatore/
+Disallow: /js/
+Disallow: /css/
+

@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /csv/
+Disallow: /App_Code/
+Disallow: /App_Browsers/
+Disallow: /App_Themes/Tema1/images/
+Disallow: /App_Data/
+Disallow: /Atti/
+Disallow: /Atti/Allegati/
+Disallow: /Atti/Trasparenza/
+Disallow: /Atti/Regolamenti/
+Disallow: /gestione/
+Disallow: /barre/
+Disallow: /avvisi/
+Disallow: /scarico/
+Disallow: /messaggi/
+Disallow: /Elezioni/
+Disallow: /Trasparenza/
+Disallow: /Trasparenza/Allegati/
+Disallow: /Trasparenza/Amministratori2013/
+Disallow: /Trasparenza/immagini/
+Allow: /
+

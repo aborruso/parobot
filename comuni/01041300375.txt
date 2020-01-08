@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/sassomarconi_ecm8v2/bandi
+Disallow: /upload/sassomarconi_ecm8v2/delibere
+Disallow: /upload/sassomarconi_ecm8v2/regolamenti
+Disallow: /upload/sassomarconi_ecm8v2/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

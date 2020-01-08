@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.comune.settala.mi.it/sitemap_index.xml

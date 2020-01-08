@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/carnate/bandi
+Disallow: /upload/carnate/delibere
+Disallow: /upload/carnate/regolamenti
+Disallow: /upload/carnate/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

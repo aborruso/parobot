@@ -1,0 +1,52 @@
+Sitemap: https://www.comune.pordenone.it/sitemap.xml.gz
+
+# Define access-restrictions for robots/spiders
+# http://www.robotstxt.org/wc/norobots.html
+
+
+
+# By default we allow robots to access all areas of our site
+# already accessible to anonymous users
+
+User-agent: 008
+Disallow: /
+
+User-agent: *
+Crawl-delay: 30
+Disallow: /folder_contents
+Disallow: /folder_factories
+Disallow: /search
+Disallow: /sendto_form
+Disallow: /it/dasapere/imu
+Disallow: /it/test/
+Disallow: /it/area-riservata/
+Disallow: /it/comune/progetti/fornitori/folder_contents
+Disallow: /it/@@add-durc
+Disallow: /it/servizi-online/open-data/
+Disallow: /it/comune/il-comune/strutture/biblioteca/newsletter-biblioteca/
+Disallow: /it/comune/il-comune/strutture/informagiovani/newsletter-carta-giovani/
+Disallow: /it/comune/il-comune/strutture/informagiovani/newsletter-informagiovani/
+Disallow: /it/citta/vivi/respiriamo-pordenone/newsletter-respiriamo/
+Disallow: /it/citta/eventi/calendario/tteventlist_view
+Disallow: /it/citta/vivi/parchi/
+
+
+
+# Add Googlebot-specific syntax extension to exclude forms
+# that are repeated for each piece of content in the site
+# the wildcard is only supported by Googlebot
+# http://www.google.com/support/webmasters/bin/answer.py?answer=40367&ctx=sibling
+
+User-Agent: Googlebot
+Disallow: /*?
+Disallow: /*atct_album_view$
+Disallow: /*folder_factories$
+Disallow: /*folder_summary_view$
+Disallow: /*login_form$
+Disallow: /*mail_password_form$
+Disallow: /@@search
+Disallow: /*search_rss$
+Disallow: /*sendto_form$
+Disallow: /*summary_view$
+Disallow: /*thumbnail_view$
+Disallow: /*view$

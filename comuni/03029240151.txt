@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/trezzano_naviglio/bandi
+Disallow: /upload/trezzano_naviglio/delibere
+Disallow: /upload/trezzano_naviglio/regolamenti
+Disallow: /upload/trezzano_naviglio/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

@@ -1,0 +1,14 @@
+User-agent: * # si riferisce a tutti gli spider
+
+# Directories
+Disallow: /area-riservata/
+Disallow: /classi/
+Disallow: /config/
+Disallow: /fotogallery/
+Disallow: /html/
+Disallow: /include/
+Disallow: /script/
+Disallow: /Smarty-3.0.5/
+Disallow: /stili/
+
+

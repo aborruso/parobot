@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /admin/
+
+User-agent: *
+Disallow: /central.php?section=3&subarea=101&subsubarea=1011
+
+User-agent: *
+Disallow: /central.php?section=3&subarea=101&subsubarea=1010
+
+User-agent: *
+Disallow: /delibere.php
+
+
+
+
+User-agent: *
+Disallow: /data/
+
+User-agent: *
+Disallow: /dati/
+
+
+User-agent: *
+Disallow: /central.php

@@ -1,0 +1,15 @@
+User-agent: NetMechanic
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: *
+
+Disallow: /grafica/
+Disallow: /include/
+Disallow: /admin/
+Disallow: /funzioni/

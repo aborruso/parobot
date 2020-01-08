@@ -1,0 +1,4 @@
+#User-agent: *
+#Disallow:
+
+#Sitemap: http:// @@@ URL DA CAMBIARE ! ! ! @@@ /sitemaps/sitemap.xml

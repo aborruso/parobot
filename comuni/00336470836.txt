@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cli/
+Disallow: /installation/
+Disallow: /logs/
+Disallow: /tmp/
+Host: www.comunemottacamastra.gov.it
+
+
+Sitemap: http://www.comunemottacamastra.gov.it/sitemap.xml

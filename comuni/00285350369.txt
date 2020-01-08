@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/castelvetro/bandi
+Disallow: /upload/castelvetro/delibere
+Disallow: /upload/castelvetro/regolamenti
+Disallow: /upload/castelvetro/albopretorianorc
+
+Disallow: /servizi/admin
+Disallow: /central/

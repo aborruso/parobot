@@ -1,0 +1,13 @@
+User-agent: *
+Sitemap: sitemap.xml
+Disallow: admin.php
+Disallow: config
+Disallow: header
+Disallow: footer
+Disallow: pntables
+Disallow: /images
+Disallow: /includes
+Disallow: /themes
+Disallow: /pnTemp
+Disallow: /docs
+Disallow: /javascript

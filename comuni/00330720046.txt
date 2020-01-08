@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /admin
+Disallow: /thumbnail.aspx
+Disallow: /associazioni/associazioni19.htm

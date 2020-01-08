@@ -1,0 +1,35 @@
+User-agent: *
+
+Disallow: /feed/
+
+Disallow: /cgi-bin
+
+Disallow: /wp-admin
+
+Disallow: /trackback
+
+Disallow: /xmlrpc.php
+
+Disallow: /author/*
+
+Disallow: /search/
+
+Disallow: /00197650518
+
+Disallow: /download
+
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: Googlebot-Image
+
+Allow: /wp-content/uploads/
+
+
+
+User-agent: Googlebot-Mobile
+
+Allow: /
+
+
+
+sitemap: https://www.comune.monterchi.ar.it/sitemap.xml

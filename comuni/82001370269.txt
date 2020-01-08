@@ -1,0 +1,14 @@
+User-agent: googlebot
+Disallow: 
+
+User-agent: slurp
+Disallow: 
+
+User-agent: MSNBot
+Disallow:
+
+User-agent: *
+Disallow:
+
+Sitemap: http://www.comune.orsago.tv.it/sitemap.xml
+

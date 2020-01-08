@@ -1,0 +1,7 @@
+# Impedisci a Googlebot di accedere a cartella download
+User-agent: googlebot
+Disallow: /download/
+
+User-agent: *
+Disallow:
+Crawl-delay: 10

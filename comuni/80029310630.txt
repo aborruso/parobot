@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://www.comune.casoria.na.it/sitemap.xml

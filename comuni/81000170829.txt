@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /errorpages/
+Disallow: /wp-content/plugins/wp-albopretorio/
+Sitemap: http://comune.bagheria.pa.it/sitemap.xml

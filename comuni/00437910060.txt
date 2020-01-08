@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: *
+Disallow: /wp-content/uploads/
+Disallow: /wp-content/uploads/sites/20/
+
+Sitemap: https://comune.gremiasco.al.it/sitemap.xml

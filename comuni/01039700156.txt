@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/macherio/bandi
+Disallow: /upload/macherio/delibere
+Disallow: /upload/macherio/regolamenti
+Disallow: /upload/macherio/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

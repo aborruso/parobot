@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.comune.silvi.te.it/sitemaps/sitemap.xml
+

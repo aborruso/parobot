@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /backend/
+Disallow: /albo-pretorio/albo
+Disallow: /javascript/
+Disallow: /template/
+Allow: /

@@ -1,0 +1,9 @@
+	User-agent: *
+	
+	Disallow: /administrator/
+	Disallow: /documenti/
+	Disallow: /immagini_pagine/
+	Disallow: /gestione_file.php
+	
+
+	sitemap: https://www.cepspa.eu/sitemap.xml

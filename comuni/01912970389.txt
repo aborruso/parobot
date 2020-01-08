@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.comune.fiscaglia.fe.it/sitemaps/sitemap.xml

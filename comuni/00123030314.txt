@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /
+Sitemap: http://coll-monfalcone.regione.fvg.it:8082/sitemap.xml

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /content/search
+Disallow: /content/advancedsearch
+Disallow: /backend
+Disallow: /layout
+Disallow: /debug
+Disallow: /content/keyword

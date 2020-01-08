@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /tmp/
+Disallow: /attachments/
+Disallow: /files/
+Disallow: /import/
+Disallow: /modulistica/
+Disallow: /stats/
+Disallow: /*.php$
+
+Sitemap: http://www.comune.camaiore.lu.it/it/?option=com_osmap&view=xml&id=1

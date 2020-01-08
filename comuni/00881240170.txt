@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/pubblicazionispese
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/marcheno/bandi
+Disallow: /upload/marcheno/delibere
+Disallow: /upload/marcheno/regolamenti
+Disallow: /upload/marcheno/gestionedocumentale
+Disallow: /upload/marcheno/pubblicazionispese
+Disallow: /upload/<nomeportale>/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

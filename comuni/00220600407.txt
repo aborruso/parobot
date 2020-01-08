@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/cesenatico_ecm10/bandi
+Disallow: /upload/cesenatico_ecm10/delibere
+Disallow: /upload/cesenatico_ecm10/regolamenti
+Disallow: /upload/cesenatico_ecm10/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/
+Disallow: /servizi/albopretoriointegrato
+Disallow: /upload/cesenatico_ecm10/albopretoriointegrato

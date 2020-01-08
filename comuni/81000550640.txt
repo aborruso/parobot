@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /albopretorio.aspx
+Disallow: /ilsindacorisponde.aspx
+Disallow: /forum/
+Disallow: /albo_docs/
+Disallow: /privacy.aspx

@@ -1,0 +1,4 @@
+User-agent: *
+Host: sagronmis.eu
+Sitemap: http://sagronmis.eu/sitemap.xml
+Crawl-delay: 4.5

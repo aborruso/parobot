@@ -1,0 +1,4 @@
+# www.comunemassalubrense.gov.it
+
+User-agent: *
+Disallow: /admin #cartella privata

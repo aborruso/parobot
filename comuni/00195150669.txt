@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wpsite/wp-admin/
+Disallow: /wpsite/wp-includes/
+
+Sitemap: http://www.comune.pratadansidonia.aq.it/sitemap.xml.gz

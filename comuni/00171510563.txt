@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /Albo%20pretorio.php
+Disallow: /Segretario%20comunale.php
+Disallow: /area_riser/
+Disallow: /db_bandi/
+Disallow: /PASSAGGIO/
+Disallow: /Uffici%20comunali.php
+Disallow: /Avvisi,%20bandi%20di%20gara,%20concorsi.php
+Disallow: /Trasparenza,%20valutazione%20e%20merito.php
+

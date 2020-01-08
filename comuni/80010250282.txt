@@ -1,0 +1,25 @@
+User-agent: googlebot
+#Disallow:
+# @AZ161024
+# blocco indicizzazione a files nella parte statica
+Disallow: /statico/old/trebaseleghe/www.comune.trebaseleghe.pd.it/files/ 
+
+User-agent: slurp
+#Disallow: 
+# @AZ161024
+# blocco indicizzazione a files nella parte statica
+Disallow: /statico/old/trebaseleghe/www.comune.trebaseleghe.pd.it/files/
+
+User-agent: MSNBot
+#Disallow: 
+# @AZ161024
+# blocco indicizzazione a files nella parte statica
+Disallow: /statico/old/trebaseleghe/www.comune.trebaseleghe.pd.it/files/
+
+User-agent: *
+#Disallow: 
+# @AZ161024
+# blocco indicizzazione a files nella parte statica
+Disallow: /statico/old/trebaseleghe/www.comune.trebaseleghe.pd.it/files/
+
+Sitemap: http://www.trebaseleghe.gov.it/sitemaps/sitemap.xml

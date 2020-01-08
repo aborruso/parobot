@@ -1,0 +1,24 @@
+# robots file Actagov
+
+User-agent: Twitterbot
+Disallow: *
+Allow: /images/
+
+User-agent: *
+Disallow: /acta-admin/
+Disallow: /analytics/
+Disallow: /bootstrap-italia/
+Disallow: /config/
+Disallow: /css/
+Disallow: /files/
+Disallow: /images/
+Disallow: /include/
+Disallow: /log/
+Disallow: /microdata/
+Disallow: /sql/
+Disallow: /thumbs/
+Disallow: /filemanager/
+
+Sitemap: https://www.comunedicortino.gov.it/sitemap.xml
+
+

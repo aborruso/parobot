@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /in-comune/albo-pretorio/archivio-albo-pretorio-online/
+Disallow: /wp-content/uploads/albo_pretorio/archivio/stage/2011/
+Disallow: /errorpages/
+Sitemap: https://comune.santostefanodicamastra.me.it/sitemap.xml

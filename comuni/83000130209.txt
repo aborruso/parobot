@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /upload/dosolo/bandi
+Disallow: /upload/dosolo/delibere
+Disallow: /upload/dosolo/regolamenti
+Disallow: /servizi/admin
+Disallow: /central/

@@ -1,0 +1,5 @@
+Sitemap: https://comune.vignate.mi.it/sitemap.xml
+Sitemap: https://comune.vignate.mi.it/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

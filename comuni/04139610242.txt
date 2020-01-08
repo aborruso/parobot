@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://www.comune.barbaranomossano.vi.it/sitemaps/sitemap.xml

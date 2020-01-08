@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /servizi/pubblicazionispese
+Disallow: /upload/castelfrancoemilia/servizi/pubblicazionispese
+Disallow: /servizi/admin
+Disallow: /central/

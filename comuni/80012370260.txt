@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css/
+Disallow: /management/
+Disallow: /fonts/
+Disallow: /include/
+Disallow: /js/
+Disallow: /public/

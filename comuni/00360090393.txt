@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /check/
+Disallow: /contao/
+Disallow: /system/
+Disallow: /templates/
+Disallow: /share/index.php
+Disallow: /contao-check.php
+Disallow: /flash.php
+Disallow: /README.md
+Disallow: /files/usr/operazione-trasparenza/consulenti-e-collaboratori/curricula-soggetti-incaricati/bastoni_cv.pdf
+Disallow: /servizi-on-line/edilizia/
+Allow: /assets/

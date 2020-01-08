@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.comunevillaga.vi.it/sitemaps/sitemap.xml

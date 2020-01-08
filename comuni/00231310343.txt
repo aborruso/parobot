@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/sansecondoparmense/bandi
+Disallow: /upload/sansecondoparmense/delibere
+Disallow: /upload/sansecondoparmense/regolamenti
+Disallow: /upload/sansecondoparmense/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

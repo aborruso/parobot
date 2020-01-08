@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /public/pretorio/
+Disallow: /public/
+Disallow: /admin/
+Disallow: /include/
+Disallow: /objects/
+Disallow: /support/
+Disallow: /cgi-bin/
+Disallow: /newsite/public/pretorio/
+Disallow: /newsite/admin/
+Disallow: /newsite/include/
+Disallow: /newsite/xml/
+Disallow: /*.pdf$

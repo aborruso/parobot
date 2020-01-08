@@ -1,0 +1,24 @@
+# robots file Actagov
+
+User-agent: Twitterbot
+Disallow: *
+Allow: /images/
+
+User-agent: *
+Disallow: /acta-admin/
+Disallow: /analytics/
+Disallow: /bootstrap-italia/
+Disallow: /config/
+Disallow: /css/
+Disallow: /files/
+Disallow: /images/
+Disallow: /include/
+Disallow: /log/
+Disallow: /microdata/
+Disallow: /sql/
+Disallow: /filemanager/
+Disallow: /thumbs/
+
+Sitemap: https://www.comunedicastelcastagna.gov.it/sitemap.xml
+
+

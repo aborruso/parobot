@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretoriointegrato_archivio
+Disallow: /servizi/albopretoriointegrato
+Disallow: /upload/bareggio/bandi
+Disallow: /upload/bareggio/delibere
+Disallow: /upload/bareggio/regolamenti
+Disallow: /upload/bareggio/albopretorio_allegati
+Disallow: /servizi/admin
+Disallow: /central/

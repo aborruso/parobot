@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://comune.ripi.fr.it/sitemap.xml

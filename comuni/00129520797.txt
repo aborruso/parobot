@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /api/
+Disallow: /xmlrpc.php
+Disallow: /comment-page-
+Allow: /wp-content/uploads/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /

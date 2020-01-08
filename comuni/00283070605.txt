@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.comune.patrica.fr.it/sitemap.xml

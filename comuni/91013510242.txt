@@ -1,0 +1,14 @@
+User-agent: googlebot
+Disallow: 
+
+User-agent: slurp
+Disallow: 
+
+User-agent: MSNBot
+Disallow:
+
+User-agent: *
+Disallow:
+
+#da decommentare quando attivo
+#Sitemap: http://www.tezze.gov.it/sitemaps/sitemap.xml

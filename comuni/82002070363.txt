@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/sanprospero/bandi
+Disallow: /upload/sanprospero/delibere
+Disallow: /upload/sanprospero/regolamenti
+Disallow: /upload/sanprospero/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

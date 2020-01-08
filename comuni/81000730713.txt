@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /graphic/
+Sitemap: https://comune.carapelle.fg.it/sitemap.xml

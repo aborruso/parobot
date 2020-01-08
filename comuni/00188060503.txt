@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.comune.bientina.pi.it/sitemaps/sitemap.xml

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/ Disallow: /albo-pretorio/
+
+Sitemap: http://www.comune.castronovodisicilia.pa.it/sitemap.xml

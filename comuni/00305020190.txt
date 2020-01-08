@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /admin
+Disallow: /bin/
+Disallow: /mdb-database/
+Disallow: /errors/
+Disallow: /login.aspx
+Disallow: /comune
+Disallow: /info
+Disallow: /trasparenza
+Disallow: /servizi
+Disallow: /amministrazione

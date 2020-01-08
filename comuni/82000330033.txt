@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /App_Code/
+Disallow: /App_Browsers/
+Disallow: /App_Themes/Tema1/images/
+Disallow: /App_Data/
+Disallow: /gestione/
+Disallow: /barre/
+Disallow: /public/
+Disallow: /atti/
+Disallow: /avvisi/
+Disallow: /manifesti/
+Disallow: /messaggi/
+Disallow: /immagini/
+Disallow: /trasparenza/
+Allow: /
+

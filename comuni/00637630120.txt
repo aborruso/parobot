@@ -1,0 +1,88 @@
+User-agent: Custo
+User-agent: Image Stripper
+User-agent: Go-Ahead-Got-It
+User-agent: MJ12bot
+User-agent: HTTrack
+User-agent: tAkeOut
+User-agent: LinkpadBot
+User-agent: DISCo
+User-agent: BlackWidow
+User-agent: Website eXtractor
+User-agent: Indy Library
+User-agent: WWWOFFLE
+User-agent: PageGrabber
+User-agent: WebGo IS
+User-agent: SiteSnagger
+User-agent: NetSpider
+User-agent: larbin
+User-agent: Xaldon WebSpider
+User-agent: EmailSiphon
+User-agent: WebLeacher
+User-agent: WebWhacker
+User-agent: WebZIP
+User-agent: WebReaper
+User-agent: Mass Downloader
+User-agent: WebCopier
+User-agent: Mister PiX
+User-agent: FlashGet
+User-agent: MIDown tool
+User-agent: RealDownload
+User-agent: AhrefsBot/5.1
+User-agent: SemrushBot
+User-agent: pavuk
+User-agent: ReGet
+User-agent: VoidEYE
+User-agent: EmailWolf
+User-agent: LeechFTP
+User-agent: ChinaClaw
+User-agent: Dotbot
+User-agent: EirGrabber
+User-agent: ExtractorPro
+User-agent: Express WebPictures
+User-agent: Zeus
+User-agent: Teleport Pro
+User-agent: Download Demon
+User-agent: Bot [EMAIL="craftbot@yahoo.com"]mailto:craftbot@yahoo.com[/EMAIL]
+User-agent: Papa Foto
+User-agent: pcBrowser
+User-agent: AhrefsBot
+User-agent: Offline Navigator
+User-agent: HMView
+User-agent: Go!Zilla
+User-agent: GrabNet
+User-agent: Exabot
+User-agent: JetCar
+User-agent: SmartDownload
+User-agent: WebSauger
+User-agent: Surfbot
+User-agent: Offline Explorer
+User-agent: SuperBot
+User-agent: WebStripper
+User-agent: WebFetch
+User-agent: Rogerbot
+User-agent: WebAuto
+User-agent: Navroad
+User-agent: EyeNetIE
+User-agent: Net Vampire
+User-agent: NetZIP
+User-agent: SemrushBot/1.1~bl
+User-agent: GetRight
+User-agent: NetAnts
+User-agent: InterGET
+User-agent: Internet Ninja
+User-agent: Image Sucker
+User-agent: eCatch
+User-agent: SuperHTTP
+User-agent: GetWeb!
+User-agent: Grafula
+User-agent: Website Quester
+User-agent: Web Image Collector
+User-agent: NearSite
+User-agent: Wget
+User-agent: Web Sucker
+User-agent: JOC Web Spider
+User-agent: Octopus
+User-agent: Widow
+User-agent: Gigabot
+Disallow: /
+

@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/procedimenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/sancesario/bandi
+Disallow: /upload/sancesario/delibere
+Disallow: /upload/sancesario/regolamenti
+Disallow: /upload/sancesario/albopretorianorc
+Disallow: /upload/sancesario/procedimentiDisallow: /servizi/admin
+Disallow: /central/

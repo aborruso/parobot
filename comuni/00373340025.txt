@@ -1,0 +1,3 @@
+User-agent: *               # any robot
+Disallow: /img              # disallow this directory
+Disallow: /gestione         # disallow this directory

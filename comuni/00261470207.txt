@@ -1,0 +1,7 @@
+# Escludo dall'intero sito Teleport
+User-agent: Teleport
+Disallow: /
+
+#Escludo google dalla cartella modena
+User-agent: googlebot
+Disallow: /modena/

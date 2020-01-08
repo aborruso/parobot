@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.comune.osiosotto.bg.it/sitemaps/sitemap.xml

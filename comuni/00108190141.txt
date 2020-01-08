@@ -1,0 +1,117 @@
+# If the Joomla site is installed within a folder such as at
+# e.g. www.example.com/joomla/ the robots.txt file MUST be
+# moved to the site root at e.g. www.example.com/robots.txt
+# AND the joomla folder name MUST be prefixed to the disallowed
+# path, e.g. the Disallow rule for the /administrator/ folder
+# MUST be changed to read Disallow: /joomla/administrator/
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+#
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+User-agent: WebStripper
+User-agent: FlashGet
+User-agent: JOC Web Spider
+User-agent: ExtractorPro
+User-agent: ReGet
+User-agent: Papa Foto
+User-agent: Dotbot
+User-agent: WebZIP
+User-agent: RealDownload
+User-agent: NetZIP
+User-agent: ChinaClaw
+User-agent: Xaldon WebSpider
+User-agent: WWWOFFLE
+User-agent: HMView
+User-agent: LinkpadBot
+User-agent: larbin
+User-agent: MIDown tool
+User-agent: Download Demon
+User-agent: EirGrabber
+User-agent: GetWeb!
+User-agent: MJ12bot
+User-agent: Web Sucker
+User-agent: PageGrabber
+User-agent: Go-Ahead-Got-It
+User-agent: Grafula
+User-agent: Image Sucker
+User-agent: WebGo IS
+User-agent: Bot [EMAIL="craftbot@yahoo.com"]mailto:craftbot@yahoo.com[/EMAIL]
+User-agent: NetSpider
+User-agent: Express WebPictures
+User-agent: WebAuto
+User-agent: AhrefsBot/5.1
+User-agent: SemrushBot/1.1~bl
+User-agent: NetAnts
+User-agent: WebLeacher
+User-agent: pavuk
+User-agent: SemrushBot
+User-agent: EyeNetIE
+User-agent: Custo
+User-agent: Teleport Pro
+User-agent: Gigabot
+User-agent: HTTrack
+User-agent: NearSite
+User-agent: Website eXtractor
+User-agent: Rogerbot
+User-agent: VoidEYE
+User-agent: LeechFTP
+User-agent: Mister PiX
+User-agent: EmailSiphon
+User-agent: Widow
+User-agent: WebFetch
+User-agent: Wget
+User-agent: Zeus
+User-agent: GrabNet
+User-agent: JetCar
+User-agent: WebWhacker
+User-agent: DISCo
+User-agent: Indy Library
+User-agent: InterGET
+User-agent: SuperBot
+User-agent: Offline Navigator
+User-agent: eCatch
+User-agent: Web Image Collector
+User-agent: Net Vampire
+User-agent: EmailWolf
+User-agent: WebReaper
+User-agent: Exabot
+User-agent: Go!Zilla
+User-agent: BlackWidow
+User-agent: GetRight
+User-agent: Surfbot
+User-agent: Image Stripper
+User-agent: Offline Explorer
+User-agent: Internet Ninja
+User-agent: tAkeOut
+User-agent: WebSauger
+User-agent: Mass Downloader
+User-agent: AhrefsBot
+User-agent: WebCopier
+User-agent: SuperHTTP
+User-agent: Website Quester
+User-agent: Navroad
+User-agent: pcBrowser
+User-agent: Octopus
+User-agent: SiteSnagger
+User-agent: SmartDownload
+Disallow: /
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+

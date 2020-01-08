@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.comune.castelbuono.pa.it/sitemaps/sitemap.xml

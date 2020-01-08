@@ -1,0 +1,13 @@
+#User-agent: googlebot
+#Disallow: /statico/comune/oldrepository/*
+
+#User-agent: slurp
+#Disallow: /statico/comune/oldrepository/*
+
+#User-agent: MSNBot
+#Disallow: /statico/comune/oldrepository/*
+
+User-agent: *
+Disallow: 
+
+Sitemap: http://www.spinea.gov.it/sitemap.xml

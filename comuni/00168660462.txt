@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://www.comune.massarosa.lu.it/sitemaps/sitemap.xml

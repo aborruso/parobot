@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Allow: /
+User-agent: bingbot
+Allow: /
+User-agent: Slurp
+Allow: /
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /bad-index.php

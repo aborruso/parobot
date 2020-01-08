@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/pieveemanuele/bandi
+Disallow: /upload/pieveemanuele/delibere
+Disallow: /upload/pieveemanuele/regolamenti
+Disallow: /upload/pieveemanuele/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

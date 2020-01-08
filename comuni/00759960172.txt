@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /
+Allow: /wp-admin/admin-ajax.php
+
+Allow: /$
+Allow: /wp-content/uploads/
+Allow: /ricerca
+Allow: /amministrazione
+Allow: /scrivi-al-comune-di-erbusco
+Allow: /storia-di-erbusco
+Allow: /archivio-storico-comunale
+Allow: /notizie
+Allow: /documenti
+Allow: /eventi
+Allow: /punti-interesse
+Allow: /aree-tematiche
+Allow: /uffici-e-contatti
+Allow: /bandi
+
+Allow: /*sitemap
+Allow: /*css
+Allow: /*js
+Allow: /*gif
+Allow: /*jpg
+Allow: /*jpeg
+Allow: /*png
+Allow: /*pdf
+
+Sitemap: https://www.comune.erbusco.bs.it/sitemap_index.xml

@@ -1,0 +1,22 @@
+# exclude help system from robots
+User-agent: *
+Disallow: /manual/ 
+Disallow: /doc/ 
+Disallow: /gif/
+Disallow: /prog/
+Disallow: /handicap/
+Disallow: /ULISS-e/
+Disallow: /ULISS-eJ/
+Disallow: /bauamtWeb
+Disallow: /context.jsp?ID_LINK=1108&area=154
+Disallow: /context.jsp?ID_LINK=1109&page=5&area=154&id_context=4383
+# disallow htdig to index our doc-tree
+User-agent: susedig
+Disallow: /
+# disallow stress test
+user-agent: stress-agent
+Disallow: /
+user-agent: bingbot
+Disallow: /
+user-agent: AhrefsBot
+disallow: /

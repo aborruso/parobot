@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/bibbiano/bandi
+Disallow: /upload/bibbiano/delibere
+Disallow: /upload/bibbiano/regolamenti
+Disallow: /upload/bibbiano/albopretorianorc
+
+Disallow: /servizi/admin
+Disallow: /central/

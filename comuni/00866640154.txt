@@ -1,0 +1,5 @@
+Sitemap: https://comune.sovico.mb.it/sitemap.xml
+Sitemap: https://comune.sovico.mb.it/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

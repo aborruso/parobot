@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /login
+Disallow: /newsletter/
+Disallow: /benvenuti/newsletter/
+Disallow: /temi/sociale/newsletter/
+Disallow: /comune/amministratori/sindaco/la-newsletter-del-sindaco/
+Disallow: /temi/europa/europedirect/newsletter/
+Disallow: /spazio2/newsletter/

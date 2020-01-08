@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /albo/
+Disallow: /gestione/
+Disallow: /altro/
+Disallow: /attivita/
+Disallow: /bandi/
+Disallow: /delibere/
+Disallow: /determine/
+Disallow: /pubblicazioni/
+Disallow: /regolamenti/
+Disallow: /suap_admin/
+

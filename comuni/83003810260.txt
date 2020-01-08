@@ -1,0 +1,4 @@
+#User-agent: *
+#Disallow:
+
+#Sitemap: http://www.comune.caerano-di-san-marco.tv.it/sitemaps/sitemap.xml

@@ -1,0 +1,5 @@
+Sitemap: http://www.comune.boretto.re.it/sitemap.xml
+Sitemap: http://www.comune.boretto.re.it/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

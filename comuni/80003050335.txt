@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/podenzano/bandi
+Disallow: /upload/podenzano/delibere
+Disallow: /upload/podenzano/regolamenti
+Disallow: /upload/podenzano/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

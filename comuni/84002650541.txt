@@ -1,0 +1,5 @@
+﻿Sitemap: https://www.comune.norcia.pg.it/sitemap.xml
+Sitemap: https://www.comune.norcia.pg.it/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
