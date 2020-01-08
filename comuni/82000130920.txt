@@ -1,0 +1,22 @@
+
+
+User-agent: *
+Disallow: /it/administrator/
+Disallow: /it/bin/
+Disallow: /it/cache/
+Disallow: /it/cli/
+Disallow: /it/components/
+Disallow: /it/includes/
+Disallow: /it/installation/
+Disallow: /it/language/
+Disallow: /it/layouts/
+Disallow: /it/libraries/
+Disallow: /it/logs/
+Disallow: /it/modules/
+Disallow: /it/plugins/
+Disallow: /it/tmp/
+
+Allow: /sitemap.xml
+
+Sitemap: https://www.comunegonnosfanadiga.gov.it/it/sitemap.xml
+

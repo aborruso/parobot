@@ -1,0 +1,75 @@
+User-agent: *
+Disallow: /
+
+# but allow only important bots
+User-agent: Googlebot
+Crawl-delay: 600
+Disallow: /de/
+Disallow: /mc/
+Disallow: /images/
+Disallow: /*/de/*
+Disallow: /*/mc/*
+Disallow: /*/images/*
+
+User-agent: Googlebot-Image
+Crawl-delay: 600
+Disallow: /de/
+Disallow: /mc/
+Disallow: /images/
+Disallow: /*/de/*
+Disallow: /*/mc/*
+Disallow: /*/images/*
+
+User-agent: Mediapartners-Google
+Crawl-delay: 600
+Disallow: /de/
+Disallow: /mc/
+Disallow: /images/
+Disallow: /*/de/*
+Disallow: /*/mc/*
+Disallow: /*/images/*
+
+User-agent: bingbot
+Crawl-delay: 600
+Disallow: /de/
+Disallow: /mc/
+Disallow: /images/
+Disallow: /*/de/*
+Disallow: /*/mc/*
+Disallow: /*/images/*
+
+User-agent: msnbot
+Crawl-delay: 600
+Disallow: /de/
+Disallow: /mc/
+Disallow: /images/
+Disallow: /*/de/*
+Disallow: /*/mc/*
+Disallow: /*/images/*
+
+User-agent: msnbot-media
+Crawl-delay: 600
+Disallow: /de/
+Disallow: /mc/
+Disallow: /images/
+Disallow: /*/de/*
+Disallow: /*/mc/*
+Disallow: /*/images/*
+
+User-agent: Yahoo-Blogs
+Crawl-delay: 600
+Disallow: /de/
+Disallow: /mc/
+Disallow: /images/
+Disallow: /*/de/*
+Disallow: /*/mc/*
+Disallow: /*/images/*
+
+User-agent: Yahoo-MMCrawler
+Crawl-delay: 600
+Disallow: /de/
+Disallow: /mc/
+Disallow: /images/
+Disallow: /*/de/*
+Disallow: /*/mc/*
+Disallow: /*/images/*

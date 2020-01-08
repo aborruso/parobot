@@ -1,0 +1,10 @@
+
+
+User-agent: *
+Disallow: /it/administrator/
+
+
+Allow: /sitemap.xml
+
+Sitemap: https://www.comune.pau.or.it/it/sitemap.xml
+

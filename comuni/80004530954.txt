@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: https://www.comune.gonnostramatza.or.gov.it/it/index.php?option=com_k2&view=item&layout=item&id=89

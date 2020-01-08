@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /intra/
+Disallow: /inc/
+Disallow: /intra/ftp_public/
+Disallow: /tpl/

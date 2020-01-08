@@ -1,0 +1,1 @@
+User-agent: *Allow: /apollo/foto_articoli/Allow: /apollo/foto_marche/Allow: /apollo/foto_prodotti/Disallow: /apollo/

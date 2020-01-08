@@ -1,7 +1,0 @@
-User-Agent: bingbot
-Crawl-delay: 30
-Allow: /
-
-User-Agent: *
-Allow: /
-

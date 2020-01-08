@@ -1,5 +1,4 @@
-
-Sitemap: http://www.mutters.tirol.gv.at/sitemap.xml
+Sitemap: http://www.alkoven.at/sitemap.xml
 Crawl-delay: 20
 User-agent: Googlebot
 Disallow:

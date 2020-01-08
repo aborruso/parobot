@@ -1,4 +1,4 @@
-Sitemap: http://www.fontanella.at/sitemap.xml
+Sitemap: http://Ennskraft.riscompany.net/sitemap.xml
 Crawl-delay: 20
 User-agent: Googlebot
 Disallow:

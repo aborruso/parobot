@@ -1,0 +1,5 @@
+user-agent: *
+disallow: /*detail.jsp?otype=1027*
+disallow: /*detail.jsp?otype=1025*
+disallow: /*section.jsp?otype=1027*
+disallow: /*ALBOPRETORIO_FILE_*

@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /trasparenza/cv
+Disallow: /trasparenza/organizzazione
+Disallow: /trasparenza/sovvenzioni
+Disallow: /images/psf
+
+Sitemap: http://www.zavattarello.org/sitemap.xml
+Sitemap: http://www.zavattarello.org/news/post-sitemap.xml

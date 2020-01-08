@@ -1,0 +1,38 @@
+User-agent: *
+
+Disallow: /wp-
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/
+Disallow: /joomla/
+Disallow: /joomlaold/
+
+Allow: /immagini/
+
+Disallow: /trackback/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */comments/
+
+Disallow: /*?*
+Disallow: /*?
+
+Disallow: /tag/
+Disallow: /category/
+
+# Google Image
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+
+# Google AdSense
+User-agent: Mediapartners-Google*
+Disallow:
+Allow: /*
+
+# digg mirror
+User-agent: duggmirror
+Disallow: /

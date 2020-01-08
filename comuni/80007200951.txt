@@ -1,0 +1,19 @@
+
+
+User-agent: *
+Disallow: /it/administrator/
+Disallow: /it/bin/
+Disallow: /it/cache/
+Disallow: /it/cli/
+Disallow: /it/includes/
+Disallow: /it/installation/
+Disallow: /it/language/
+Disallow: /it/layouts/
+Disallow: /it/libraries/
+Disallow: /it/logs/
+Disallow: /it/tmp/
+
+Allow: /sitemap.xml
+
+Sitemap: https://www.comune.sini.oristano.it/it/sitemap.xml
+

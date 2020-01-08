@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /privacy
+Sitemap: https://swite.com/www.parcodeadiana.it_sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /getdoc.php?ID=7836
+
