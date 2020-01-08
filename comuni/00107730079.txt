@@ -1,0 +1,9 @@
+user-agent: AhrefsBot
+disallow: /
+
+User-agent: Yandex
+disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /elementi/www/trasparenza/cv/

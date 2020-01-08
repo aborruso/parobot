@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /areariservata/
+Disallow: /configurazione/
+Disallow: /GestPayCrypt.inc
+Disallow: /invia_mail.php
+Disallow: /invia_mail_saletta.php
+Disallow: /request.php
+Disallow: /response.php
+Disallow: /s2s.php
+Disallow: /x_tecnico.js
+Disallow: /old/

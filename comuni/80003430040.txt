@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /public/
+Allow: /public/immagini/
+Allow: /public/editor_files/
+Allow: /public/allegati/

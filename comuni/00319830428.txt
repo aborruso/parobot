@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /advertising/
+Disallow: /aziende/
+Disallow: /mailinglist/

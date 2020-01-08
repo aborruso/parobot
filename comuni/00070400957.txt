@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Allow: /sitemap*.xml
+
+Sitemap: http://www.comune.mogoro.or.it/sitemap.xml
+Sitemap: http://www.comune.mogoro.or.it/sitemap_news.xml

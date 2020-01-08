@@ -1,5 +1,11 @@
 User-agent: *
-Disallow: /
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /upload/vergato/bandi
+Disallow: /upload/vergato/delibere
+Disallow: /upload/vergato/regolamenti
+Disallow: /archivio
 
 Disallow: /servizi/admin
 Disallow: /central/

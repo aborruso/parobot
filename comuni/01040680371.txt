@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /upload/galliera_ecm8/bandi
+Disallow: /upload/galliera_ecm8/delibere
+Disallow: /upload/galliera_ecm8/regolamenti
+Disallow: /servizi/admin
+Disallow: /central/

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /.content/
+Disallow: /.formatters/
+Disallow: /.galleries/
+Disallow: /Comune/Amministrazione-Trasparente/
+Disallow: /intranet/
+Disallow: /Comunichiamo/UfficioStampa/Config.html
+Disallow: /status

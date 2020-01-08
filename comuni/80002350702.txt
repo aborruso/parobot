@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /files/
+Disallow: /web/
+
+
+
+Sitemap: http://www.comune.vinchiaturo.cb.it/feeds/posts/default?orderby=UPDATED

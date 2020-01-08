@@ -1,7 +1,7 @@
 ### ROBOTS.TXT per i motori di ricerca
 
 User-agent: *
-Allow:  /content/download/666509/6444864/file/sitemap_GOOD.xml
+Allow: /content/download/666509/6444864/file/sitemap_GOOD.xml
 Allow: /content/download/666006/6437923/file/robots.txt
 Disallow: /Media/
 Disallow: /content/download/
@@ -45,26 +45,26 @@ Disallow: /Comune/Organi-Politici/Circoscrizioni/Circoscrizione-n.-08-Mattarello
 Disallow: /Comune/Organi-Politici/Circoscrizioni/Circoscrizione-n.-09-Villazzano/Deliberazioni/
 Disallow: /Comune/Organi-Politici/Circoscrizioni/Circoscrizione-n.-10-Oltrefersina/Deliberazioni/
 Disallow: /Comune/Organi-Politici/Circoscrizioni/Circoscrizione-n.-11-S.-Giuseppe-S.-Chiara/Deliberazioni/
-Disallow: /Comune/Organi-Politici/Circoscrizioni/Circoscrizione-n.-12-Centro-storico-Piedicastello/Deliberazioni/ 
+Disallow: /Comune/Organi-Politici/Circoscrizioni/Circoscrizione-n.-12-Centro-storico-Piedicastello/Deliberazioni/
 Disallow: /Comune/Documenti/Albi-ed-elenchi/
 
 
 ### Amministrazione trasparente ante 16 giugno 2017
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/ 
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/
 Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Personale/
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Personale/Dirigenti/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Personale/Dirigenti/Retribuzioni-da-contrattazione-collettiva/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Personale/Dirigenti/Atti-di-conferimento-degli-incarichi/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Personale/Dirigenti/Atti-di-conferimento-degli-incarichi/Elenco-dei-Dirigenti-al-01.01.2017/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Provvedimenti/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Provvedimenti/Provvedimenti-organi-indirizzo-politico/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Provvedimenti/Provvedimenti-organi-indirizzo-politico/Deliberazioni-di-Giunta-e-Consiglio-comunale/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Provvedimenti/Provvedimenti-dirigenti/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Provvedimenti/Provvedimenti-dirigenti/Determinazioni-dirigenziali/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/Privacy/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/Privacy/Informativa/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/Privacy/Documentazione/ 
-Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/Accesso/ 
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Personale/Dirigenti/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Personale/Dirigenti/Retribuzioni-da-contrattazione-collettiva/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Personale/Dirigenti/Atti-di-conferimento-degli-incarichi/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Personale/Dirigenti/Atti-di-conferimento-degli-incarichi/Elenco-dei-Dirigenti-al-01.01.2017/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Provvedimenti/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Provvedimenti/Provvedimenti-organi-indirizzo-politico/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Provvedimenti/Provvedimenti-organi-indirizzo-politico/Deliberazioni-di-Giunta-e-Consiglio-comunale/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Provvedimenti/Provvedimenti-dirigenti/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Provvedimenti/Provvedimenti-dirigenti/Determinazioni-dirigenziali/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/Privacy/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/Privacy/Informativa/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/Privacy/Documentazione/
+Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/Accesso/
 Disallow: /Comune/Organizzazione-comunale/Trasparenza-amministrativa-versione-valida-fino-al-15-06-2017/Altri-contenuti/Accesso-atti-e-privacy/Accesso/Documentazione/

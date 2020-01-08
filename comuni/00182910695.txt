@@ -1,7 +1,5 @@
 User-agent: *
-Disallow: /old
-Disallow: /fotovoltaico
-Disallow: /index.php/
-Disallow: /*?*act=
-Disallow: /*?*p=
-Disallow: /web/*?*p=
+Disallow: /2016/
+Disallow: /adminer/
+Disallow: /wp-admin/
+Disallow: /wp-includes/

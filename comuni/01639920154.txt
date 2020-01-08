@@ -1,0 +1,75 @@
+#
+# robots.txt For "Portal PA"
+# by Gruppo Si.net
+#
+
+#Regole per tutti gli spider/crawler
+User-Agent: *
+Disallow: /Allegati
+Disallow: /Albo_Pretorio
+Disallow: /Amministrazione
+Disallow: /Area_Privata
+Allow: /Articoli
+Disallow: /Aspnet_Client
+Disallow: /Banner
+Disallow: /Certificati
+Disallow: /Ckeditor
+Disallow: /Ckfinder
+Disallow: /Contatore
+Disallow: /Css
+Disallow: /Editor
+Disallow: /Elementi_Di_Layout
+Disallow: /Elezioni
+Disallow: /Forum
+Disallow: /Help
+Disallow: /Ig
+Disallow: /Immagini
+Disallow: /Includes
+Disallow: /Interfaccia
+Disallow: /Log
+Disallow: /Mediacenter
+Disallow: /Nws
+Disallow: /Pagine_Errore
+Disallow: /Pg
+Disallow: /Picture_Library
+Disallow: /Plugins
+Allow: /Pubblicazioni
+Disallow: /Rss
+Disallow: /Script
+Disallow: /Search
+Disallow: /Slideshow
+Allow: /Interfaccia/CPR/Stili
+
+Disallow: /allegati
+Disallow: /albo_pretorio
+Disallow: /amministrazione
+Disallow: /area_privata
+Allow: /articoli
+Disallow: /aspnet_client
+Disallow: /banner
+Disallow: /certificati
+Disallow: /ckeditor
+Disallow: /ckfinder
+Disallow: /contatore
+Disallow: /css
+Disallow: /editor
+Disallow: /elementi_di_layout
+Disallow: /elezioni
+Disallow: /forum
+Disallow: /help
+Disallow: /ig
+Disallow: /immagini
+Disallow: /includes
+Disallow: /interfaccia
+Disallow: /log
+Disallow: /mediacenter
+Disallow: /nws
+Disallow: /pagine_errore
+Disallow: /pg
+Disallow: /picture_library
+Disallow: /plugins
+Allow: /pubblicazioni
+Disallow: /rss
+Disallow: /script
+Disallow: /search
+Disallow: /slideshow

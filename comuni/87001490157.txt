@@ -1,0 +1,11 @@
+Sitemap: http://www.comune.bernareggio.mb.it/xml_sitemaps
+User-agent: *
+Disallow: /archivio_magazine/
+Disallow: /archivio_pubblicazioni/
+Disallow: /documenti/
+Disallow: /css/
+Disallow: /images/
+Disallow: /img/
+Disallow: /js/
+Disallow: /system/
+Disallow: /themes/

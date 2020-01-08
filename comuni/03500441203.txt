@@ -1,6 +1,12 @@
 User-agent: *
-Disallow: /
 
-
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/AltoRenoTerme/bandi
+Disallow: /upload/AltoRenoTerme/delibere
+Disallow: /upload/AltoRenoTerme/regolamenti
+Disallow: /upload/AltoRenoTerme/albopretorianorc
 Disallow: /servizi/admin
 Disallow: /central/

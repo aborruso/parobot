@@ -1,0 +1,5 @@
+Sitemap: http://www.comune.gazzola.pc.it/sitemap.xml
+
+
+User-agent: *
+Disallow: /public/

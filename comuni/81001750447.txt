@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: */trackback
+Disallow: */feed
+Sitemap: http://www.comunefalerone.it/sitemap_full.xml

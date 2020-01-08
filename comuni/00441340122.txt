@@ -1,3 +1,7 @@
 User-Agent: *
 Disallow:
-Sitemap: http://portale-varese.ve.eng.it/sitemap.xml
+Disallow: /login-cms
+Allow: /
+Disallow: /group*
+Disallow: /fascicolo/web/fascicoloadmin
+Disallow: /fascicolo/web/fascicolobackend

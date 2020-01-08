@@ -5,7 +5,7 @@
 				<div class="banner-message"><p style="color: #f0ad4e; text-align: center;">Informativa ex Art.10 Direttiva n. 95/46/CE, Direttiva 2002/58/CE, aggiornato dalla Direttiva 2009/136/CE, in materia di Cookie.</p> <p style="text-align: justify;">Il nostro sito utilizza i cookie per personalizzare i contenuti, fornire le funzioni dei social media e analizzare il nostro traffico. La legge afferma che possiamo memorizzare i cookie sul tuo dispositivo se sono strettamente necessari per il funzionamento di questo sito. Per tutti gli altri tipi di cookie ci serve il tuo permesso. Puoi leggere i Cookie utilizzati nel nostro sito al seguente link: <a style="color:#f0ad4e;" href="https://www.comune-diamante.it/cookie-policy.html">COOKIE POLICY</a>. Le finalità di utilizzo le puoi trovare nella nostra <a style="color:#f0ad4e;" href="https://www.comune-diamante.it/privacy.html">PRIVACY POLICY.</strong>.</div>
 				
 				<p class="banner-agreement-buttons text-right">
-					<a href="/robots.txt?__eucookielaw=disagree" class="disagree-button btn btn-danger" onclick="(new EUCookieLaw()).reject(); return false;">NON ACCETTO  I COOKIE</a>
+					<a href="/robots.txt?__eucookielaw=disagree" class="disagree-button btn btn-danger" onclick="(new EUCookieLaw()).reject(); return false;">NON ACCETTO I COOKIE</a>
 					<a href="/robots.txt?__eucookielaw=agree" class="agree-button btn btn-primary" onclick="(new EUCookieLaw()).enableCookies(); return false;">ACCETTO I COOKIE</a>
 				</p>
 			</div>

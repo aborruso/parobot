@@ -1,0 +1,21 @@
+Sitemap: http://www.foroavezzano.it/sitemap.xml
+
+User-agent: *
+Disallow: /management/
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /cgi-bin/
+Disallow: /custom/
+Disallow: /gateway/
+Disallow: /include/
+Disallow: /cms_js_file/
+Disallow: /log/
+Disallow: /plugin/
+Disallow: /scripts/
+Disallow: /engine/cms_secure/
+Disallow: /themes/default/client_admin/
+Disallow: /themes/default/config/
+Disallow: /themes/default/languages/
+Disallow: /themes/default/theme_core/
+Disallow: /themes/default/style/
+Disallow: /themes/default/theme_include/

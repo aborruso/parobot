@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /Biblioteca-Comunale
+Disallow: /Museo-Baracca
+Disallow: /layout/set/
+Disallow: /banner
+User-agent: msnbot
+Crawl-delay: 10

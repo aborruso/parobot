@@ -1,0 +1,11 @@
+User-agent: *
+
+
+Disallow: /allegati_atti/
+
+Disallow: /DownloadAtto.aspx
+Disallow: /Atti.aspx
+Disallow: /*?
+
+User-agent: Googlebot
+Disallow: /*.pdf$

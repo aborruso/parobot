@@ -1,0 +1,26 @@
+
+User-agent: Googlebot
+User-agent: Google
+User-agent: Googlebot-Mobile
+User-agent: bingbot
+User-agent: bing
+Crawl-delay: 10
+
+# Non voglio che i motori di ricerca indicizzino queste directory
+Disallow: /download/
+Disallow: /temp/
+Disallow: /cache/
+Disallow: /versioningmedia/
+Disallow: /utils/
+Disallow: /stagingmedia/
+Disallow: /public_security/
+Disallow: /include/
+Disallow: /images/
+Disallow: /demo/custom/
+Disallow: /demo/i/
+Disallow: /demo/images/
+Disallow: /demo/include/
+Disallow: /admin/
+
+User-agent: *
+Disallow: /

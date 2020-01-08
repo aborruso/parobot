@@ -1,0 +1,47 @@
+user-agent: AhrefsBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: meanpathbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: *
+# Non voglio che i motori di ricerca indicizzino queste directory
+Disallow: /download/
+Disallow: /dl/
+Disallow: /temp/
+Disallow: /cache/
+Disallow: /versioningmedia/
+Disallow: /utils/
+Disallow: /stagingmedia/
+Disallow: /public_security/
+Disallow: /include/
+Disallow: /images/
+Disallow: /demo/
+Disallow: /admin/
+Disallow: /media/bosaro/albopretorio/
+Disallow: /media/bosaro/delibere/
+Disallow: /media/bosaro/determinazioni/
+Disallow: /media/bosaro/ordinanze/
+Disallow: /media/bosaro/documenti/
+Disallow: /media/eridano/determine/
+Disallow: /media/eridano/delibere/
+Disallow: /media/eridano/documentialbo/
+Disallow: /media/polesella/albo/
+Disallow: /media/consvipo/albopretorio/
+
+

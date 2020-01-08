@@ -1,12 +1,12 @@
 # robots.txt
-# by Christian Leporati lepo@comune.carpi.mo.it  // 22/05/2001 rev. 0.0.1 
+# by Christian Leporati lepo@comune.carpi.mo.it // 22/05/2001 rev. 0.0.1
 #
-# file per l'esclusione degli spider dalle parti 'calde' del sito. 
+# file per l'esclusione degli spider dalle parti 'calde' del sito.
 
 
 User-agent: *
-Disallow: /cgi/                        # disabilita l'accesso alla dir /cgi/ 
-Disallow: /c4sql-campogalliano/cgi/    # disabilita l'accesso alla dir /c4sql-campogalliano/cgi/ 
+Disallow: /cgi/ # disabilita l'accesso alla dir /cgi/
+Disallow: /c4sql-campogalliano/cgi/ # disabilita l'accesso alla dir /c4sql-campogalliano/cgi/
 Disallow: /djre09rmn!3qapzXXXte/
 
 # altre

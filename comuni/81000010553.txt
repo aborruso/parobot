@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /Albo.asp
+Disallow: /albo-dld/
+Sitemap: http://www.comune.fabro.tr.it/Sitemap.xml

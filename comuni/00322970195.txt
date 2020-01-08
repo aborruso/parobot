@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/ostiano/bandi
+Disallow: /upload/ostiano/delibere
+Disallow: /upload/ostiano/regolamenti
+Disallow: /upload/ostiano/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

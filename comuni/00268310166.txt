@@ -1,0 +1,5 @@
+#
+# robots.txt file from Cyberia ISP
+#
+User-agent: *
+Disallow: /cgi-bin

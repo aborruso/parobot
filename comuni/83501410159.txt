@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /PortaleNet/portale/streaming/
+Disallow: /PortaleNet/portale/blob/
+Allow: /

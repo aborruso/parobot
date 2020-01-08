@@ -1,8 +1,8 @@
 User-agent: googlebot
-Disallow: 
+Disallow:
 
 User-agent: slurp
-Disallow: 
+Disallow:
 
 User-agent: MSNBot
 Disallow:

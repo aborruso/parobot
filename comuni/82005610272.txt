@@ -8,6 +8,6 @@
 #Disallow: /statico/comune/oldrepository/*
 
 User-agent: *
-Disallow: 
+Disallow:
 
 Sitemap: http://www.spinea.gov.it/sitemap.xml

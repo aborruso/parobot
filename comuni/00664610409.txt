@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/borghi/bandi
+Disallow: /upload/borghi/delibere
+Disallow: /upload/borghi/regolamenti
+Disallow: /upload/borghi/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

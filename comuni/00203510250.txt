@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow:/App_Browsers/
+Disallow:/App_Code/
+Disallow:/aspnet_client/
+Disallow:/b2c/
+Disallow:/bin/
+Disallow:/Calendario/
+Disallow:/ColorPicker/
+Disallow:/FCKeditor/
+Disallow:/Fotogallery/
+Disallow:/Gallery/
+Disallow:/images/
+Disallow:/script/
+Disallow:/tree2/
+Disallow:/Treeview2_ver2037_ACCESSIBILE_W3C/
+Disallow:/XML/
+
+Disallow:/gattoastucci/
+Disallow:/DemoComuni/
+Disallow:/scuolalavorobl/

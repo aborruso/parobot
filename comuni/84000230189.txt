@@ -1,5 +1,11 @@
 User-agent: *
-Disallow: /
-
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/broni/bandi
+Disallow: /upload/broni/delibere
+Disallow: /upload/broni/regolamenti
+Disallow: /upload/broni/albopretorianorc
 Disallow: /servizi/admin
 Disallow: /central/

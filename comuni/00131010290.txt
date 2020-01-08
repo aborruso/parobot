@@ -1,0 +1,24 @@
+User-agent: Googlebot
+User-agent: Google
+User-agent: Googlebot-Mobile
+User-agent: bingbot
+User-agent: bing
+Crawl-delay: 10
+
+Disallow: /download/
+Disallow: /temp/
+Disallow: /cache/
+Disallow: /versioningmedia/
+Disallow: /utils/
+Disallow: /stagingmedia/
+Disallow: /public_security/
+Disallow: /include/
+Disallow: /images/
+Disallow: /demo/
+Disallow: /admin/
+Disallow: /asl/
+Disallow: /export/
+Disallow: /quickedit/
+
+User-agent: *
+Disallow: /

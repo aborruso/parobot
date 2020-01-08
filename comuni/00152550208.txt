@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/castiglionedellestiviere/bandi
+Disallow: /upload/castiglionedellestiviere/delibere
+Disallow: /upload/castiglionedellestiviere/regolamenti
+Disallow: /upload/castiglionedellestiviere/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

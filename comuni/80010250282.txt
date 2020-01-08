@@ -2,22 +2,22 @@ User-agent: googlebot
 #Disallow:
 # @AZ161024
 # blocco indicizzazione a files nella parte statica
-Disallow: /statico/old/trebaseleghe/www.comune.trebaseleghe.pd.it/files/ 
+Disallow: /statico/old/trebaseleghe/www.comune.trebaseleghe.pd.it/files/
 
 User-agent: slurp
-#Disallow: 
+#Disallow:
 # @AZ161024
 # blocco indicizzazione a files nella parte statica
 Disallow: /statico/old/trebaseleghe/www.comune.trebaseleghe.pd.it/files/
 
 User-agent: MSNBot
-#Disallow: 
+#Disallow:
 # @AZ161024
 # blocco indicizzazione a files nella parte statica
 Disallow: /statico/old/trebaseleghe/www.comune.trebaseleghe.pd.it/files/
 
 User-agent: *
-#Disallow: 
+#Disallow:
 # @AZ161024
 # blocco indicizzazione a files nella parte statica
 Disallow: /statico/old/trebaseleghe/www.comune.trebaseleghe.pd.it/files/

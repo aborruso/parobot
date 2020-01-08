@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/camparada/bandi
+Disallow: /upload/camparada/delibere
+Disallow: /upload/camparada/regolamenti
+Disallow: /upload/camparada/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

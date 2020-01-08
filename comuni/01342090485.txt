@@ -1,0 +1,6 @@
+# Questa versione del file robots.txt consente
+# la scansione di tutte le directory allo spider dei
+# motori di ricerca
+
+User-agent: *
+Disallow:

@@ -1,1 +1,13 @@
 User-agent: *
+Disallow: /min/
+Disallow: /w-ajax/
+Disallow: /w-backups/
+Disallow: /w-cronjobs/
+Disallow: /w-css/
+Disallow: /w-documents/
+Disallow: /w-images/
+Disallow: /w-js/
+Disallow: /w-modules/
+Disallow: /w-templates/
+Disallow: /webbe/
+Sitemap: http://www.centropietra.it/sitemap.xml

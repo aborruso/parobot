@@ -1,5 +1,5 @@
-Sitemap: https://comuneamantea.gov.it/sitemap.xml
-Sitemap: https://comuneamantea.gov.it/news-sitemap.xml
+Sitemap: http://comuneamantea.gov.it/sitemap.xml
+Sitemap: http://comuneamantea.gov.it/news-sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php

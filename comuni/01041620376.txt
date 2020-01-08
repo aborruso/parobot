@@ -1,6 +1,7 @@
 User-agent: *
-Disallow: /
-
+Disallow: /servizi/albopretoriointegrato_archivio
+Disallow: /servizi/albopretoriointegrato
+Disallow: /upload/casteldaiano_ecm8/albopretorio_allegati
 
 Disallow: /servizi/admin
 Disallow: /central/

@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/sanmauropascoli_ecm10/bandi
+Disallow: /upload/sanmauropascoli_ecm10/delibere
+Disallow: /upload/sanmauropascoli_ecm10/regolamenti
+Disallow: /upload/sanmauropascoli_ecm10/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

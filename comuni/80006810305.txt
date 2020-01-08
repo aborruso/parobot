@@ -1,0 +1,13 @@
+Sitemap: http://www.comune.remanzacco.ud.it/sitemap.aspx
+
+User-agent: *
+Disallow: /admin/
+Disallow: /App_Code/
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /webcontrols/

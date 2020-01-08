@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /files/
+Disallow: /_old/
+Disallow: /class/
+Disallow: /Connections/
+Disallow: /red/
+Disallow: /new_moduli/
+Disallow: /fm/
+Allow: /
+Disallow: /inc/
+

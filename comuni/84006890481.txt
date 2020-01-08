@@ -1,0 +1,60 @@
+# Questa versione del file robots.txt disabilita
+# la scansione di alcune directory allo spider dei
+# motori di ricerca tranne che a quello interno LaTalpa
+
+
+User-agent: LaTalpa
+Disallow:
+
+User-agent: Gioppino
+Disallow: /common/css
+Disallow: /common/gif
+Disallow: /common/java
+Disallow: /documenti-noindex
+
+User-agent: *
+Disallow: /common/css
+Disallow: /common/gif
+Disallow: /common/java
+Disallow: /documenti-noindex
+Disallow: /trasparenza/organizzazione/organi-indirizzo/redditi/
+Disallow: /trasparenza/organizzazione/organi-indirizzo/autocertificazioni/
+Disallow: /trasparenza/storico-legislatura2009-2014/organizzazione/organi-indirizzo/redditi/pdf/
+Disallow: /trasparenza/storico-legislatura2009-2014/organizzazione/organi-indirizzo/redditi/2008/pdf/
+Disallow: /trasparenza/storico-legislatura2009-2014/organizzazione/organi-indirizzo/redditi/2009/pdf/
+Disallow: /trasparenza/storico-legislatura2009-2014/organizzazione/organi-indirizzo/redditi/2010/pdf/
+Disallow: /trasparenza/storico-legislatura2009-2014/organizzazione/organi-indirizzo/redditi/2011/pdf/
+Disallow: /trasparenza/storico-legislatura2009-2014/organizzazione/organi-indirizzo/redditi/2012/pdf/
+Disallow: /trasparenza/storico-legislatura2009-2014/organizzazione/organi-indirizzo/redditi/2013/pdf/
+Disallow: /trasparenza/storico-legislatura2009-2014/organizzazione/organi-indirizzo/redditi/2014/pdf/
+Disallow: /trasparenza/storico-legislatura2009-2014/organizzazione/organi-indirizzo/curriculum/pdf/
+Disallow: /trasparenza/organizzazione/organi-indirizzo/redditi-partecipate/2010/pdf/
+Disallow: /trasparenza/organizzazione/organi-indirizzo/redditi-partecipate/2009/pdf/
+Disallow: /trasparenza/organizzazione/organi-indirizzo/redditi-partecipate/2008/pdf/
+Disallow: /trasparenza/consulenti-collaboratori/esterni/cv-incarichi/
+Disallow: /trasparenza/consulenti-collaboratori/esterni/autocertificazioni-incarichi/
+Disallow: /trasparenza/consulenti-collaboratori/esterni/attestazioni-incarichi/
+Disallow: /trasparenza/consulenti-collaboratori/esterni/2017/htm/
+Disallow: /trasparenza/personale/dirigenti/pdf/
+Disallow: /trasparenza/personale/po/pdf/
+Disallow: /trasparenza/attivita-procedimenti/procedimenti-tipi/2014/
+# Disallow: /comefareper/
+# Disallow: /indirizzario/
+# Disallow: /modulistica/
+Disallow: /appuntamenti/*?*data=2002
+Disallow: /appuntamenti/*?*data=2003
+Disallow: /appuntamenti/*?*data=2004
+Disallow: /appuntamenti/*?*data=2005
+Disallow: /appuntamenti/*?*data=2006
+Disallow: /appuntamenti/*?*data=2007
+Disallow: /appuntamenti/*?*data=2008
+Disallow: /appuntamenti/*?*data=2009
+Disallow: /appuntamenti/*?*data=2010
+Disallow: /appuntamenti/*?*data=2011
+Disallow: /appuntamenti/*?*data=2012
+Disallow: /appuntamenti/*?*data=2013
+Disallow: /appuntamenti/*?*data=2014
+Disallow: /appuntamenti/*?*data=2015
+Disallow: /appuntamenti/*?*data=2016
+Disallow: /appuntamenti/*?*data=2017
+Disallow: /servizicomunali/gare/common/htm/

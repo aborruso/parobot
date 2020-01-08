@@ -1,0 +1,4 @@
+User-agent: *
+Request-rate: 1/5 # Visita al massimo una pagina ogni 5 secondi
+Visit-time: 0100-0700 # Visita soltanto tra le 1:00 AM e le 7:00 AM UT (GMT)
+Crawl-delay: 5 # Wait 5 second between successive requests

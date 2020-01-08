@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /albopretorio/
+Disallow: /provvedimenti-online/
+Disallow: /repository/
+Disallow: /il-consorzio/atti-amministrativi/
+User-agent: bingbot
+Disallow: /

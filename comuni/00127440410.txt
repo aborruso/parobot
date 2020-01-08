@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /typo3/
 Disallow: /typo3_src/
 Allow: /typo3/sysext/frontend/Resources/Public/*
-Sitemap: https://intranet.comune.fano.pu.it/?sitemap=pages&type=1533906435&cHash=e568df545901da8b094bd78191dcb603
+Sitemap: https://www.comune.fano.pu.it/?sitemap=pages&type=1533906435&cHash=e568df545901da8b094bd78191dcb603

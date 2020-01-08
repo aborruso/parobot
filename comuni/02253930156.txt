@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /_pages/
+Disallow: /aiuto/
+Disallow: /cantieri/
+Disallow: /ciampi/
+Disallow: /css/
+Disallow: /elezioni/
+Disallow: /help/
+Disallow: /js/
+Disallow: /style/

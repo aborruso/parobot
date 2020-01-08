@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin/
-Disallow: /inc/
-Disallow: /notizie/vedi_notizia.php?id_news=115

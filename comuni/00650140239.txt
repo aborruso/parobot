@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /classes/
+Disallow: /content/
+Disallow: /forms/
+Disallow: /rating/
+Disallow: /upload/
+Disallow: /dati_elettorali/
+Disallow: /avcp.html
+Disallow: /xml/avcp/
+
+
+

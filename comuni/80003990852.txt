@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /storage/ 			# Blocca la directory /storage/
+#Request-rate: 1/5				# Visita al massimo una pagina ogni 5 secondi
+Visit-time: 0100-0600			# Vista soltanto tra le 1:00 AM e le 6:00 AM UT (GMT)

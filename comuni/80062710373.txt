@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /Albo-Pretorio
+Disallow: /Operazione-Trasparenza/Curriculum-vitae-e-retribuzioni-dirigenti
+Disallow: /Operazione-Trasparenza/Curriculum-vitae-posizioni-organizzative

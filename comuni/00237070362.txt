@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /atti_e_documenti/dalle_commissioni_consiliari/
+Disallow: /albo_pretorio_on_line/
+Allow: /

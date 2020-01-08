@@ -1,5 +1,12 @@
 User-agent: *
-Disallow: /
 
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/medolla/bandi
+Disallow: /upload/medolla/delibere
+Disallow: /upload/medolla/regolamenti
+Disallow: /upload/medolla/albopretorianorc
 Disallow: /servizi/admin
 Disallow: /central/

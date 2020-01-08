@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/legnaro/bandi
+Disallow: /upload/legnaro/delibere
+Disallow: /upload/legnaro/regolamenti
+Disallow: /upload/legnaro/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

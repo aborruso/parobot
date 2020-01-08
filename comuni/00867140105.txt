@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /public/
+sitemap: http://www.comune.campo-ligure.ge.it/sitemap.xml.php

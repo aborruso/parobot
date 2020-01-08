@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /accessibile/
+Disallow: /_admin/
+Disallow: /public/

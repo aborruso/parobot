@@ -1,0 +1,5 @@
+User-Agent: *
+
+Disallow: /comune/settori/trasparenza_n/curriculum_pos_org/
+Disallow: /comune/settori/trasparenza_n/curriculum_dirigenti/
+Disallow: /persona/cittadino/ambiente/pelagos.htm 	

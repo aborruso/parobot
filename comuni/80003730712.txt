@@ -1,0 +1,21 @@
+User-agent: scooter
+Disallow: /
+
+User-agent: googlebot
+Disallow: /backoffice/
+Disallow: /changelog/
+Disallow: /class/
+Disallow: /connections/
+Disallow: /inc/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /scripts/
+Disallow: /style/
+Disallow: /test_php/
+Disallow: /test_vari/
+Disallow: /tinymce/
+Disallow: /upload/
+
+User-agent: *
+Disallow:
+

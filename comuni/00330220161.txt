@@ -1,6 +1,13 @@
 User-agent: *
-Disallow: /
 
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/treviolo/bandi
+Disallow: /upload/treviolo/delibere
+Disallow: /upload/treviolo/regolamenti
+Disallow: /upload/treviolo/albopretorianorc
 
 Disallow: /servizi/admin
 Disallow: /central/

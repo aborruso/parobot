@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /site3/
+Disallow: /site4/

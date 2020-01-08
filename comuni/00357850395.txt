@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /Amministrazione/Trasparenza-valutazione-e-merito/
+Disallow: /Amministrazione/Albo-Pretorio/
+Disallow: /var/comune_faenza/storage/albo_pretorio_ftp/
+Disallow: /Amministrazione/Bandi-e-Concorsi/
+Disallow: /Amministrazione/Gare-ed-Appalti/
+Disallow: /Bandi-di-gara
+User-agent: msnbot
+Crawl-delay: 10

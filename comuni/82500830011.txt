@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/gassino_ecm10/bandi
+Disallow: /upload/gassino_ecm10/delibere
+Disallow: /upload/gassino_ecm10/regolamenti
+Disallow: /upload/gassino_ecm10/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

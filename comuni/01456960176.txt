@@ -1,6 +1,12 @@
 User-agent: *
-Disallow: /
-
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/sanpaolo/bandi
+Disallow: /upload/sanpaolo/delibere
+Disallow: /upload/sanpaolo/regolamenti
+Disallow: /upload/sanpaolo/albopretorianorc
 
 Disallow: /servizi/admin
 Disallow: /central/

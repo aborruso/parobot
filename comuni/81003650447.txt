@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /pelpinet/documenti/*pse60*.pdf$
+Disallow: /pelpinet/documenti/*pse40*.pdf$
+Disallow: /ralbopretorio.aspx$
+Disallow: /pelpinet/documenti/
+Disallow: /pelpinet/allegati/

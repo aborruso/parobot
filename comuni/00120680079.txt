@@ -1,0 +1,10 @@
+User-agent: *
+Sitemap: http://www.comune.aosta.it/sitemap.xml
+Disallow: /it/servizi_online/atti_amministrativi/lista_atti_albo_pretorio/pubblicazioni/
+Disallow: /fr/servizi_online/atti_amministrativi/lista_atti_albo_pretorio/pubblicazioni/
+Disallow: /it/servizi_online/atti_amministrativi/allegato_atti_amministrativi/
+Disallow: /fr/servizi_online/atti_amministrativi/allegato_atti_amministrativi/
+Disallow: /it/servizi_online/atti_amministrativi/allegato_albo_pretorio/
+Disallow: /fr/servizi_online/atti_amministrativi/allegato_albo_pretorio/
+Disallow: /it/servizi_online/atti_amministrativi/lista_atti_albo_pretorio/
+Disallow: /fr/servizi_online/atti_amministrativi/lista_atti_albo_pretorio/

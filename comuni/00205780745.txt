@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /villacastelli/
+Disallow: /public/
+Disallow: /ParsecWebLAB/
+Disallow: /SanMicheleSalentino/
+Disallow: /*.asp
+Disallow: /*.asp?*

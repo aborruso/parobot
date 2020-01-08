@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /to-lofaitu/
+Disallow: /from-lofaitu/
+Disallow: /einfo/
+Disallow: /temp/

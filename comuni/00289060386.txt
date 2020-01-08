@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: */data
+Disallow: */pratiche/getDoc.php
+Disallow: */albo/getDoc.php
+Disallow: */portal/getDoc.php

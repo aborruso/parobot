@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /Banner/
+Disallow: /Albo-Pretorio/
+Disallow: /Media/Files/
+Disallow: /layout/set/
+Disallow: /Mappa-del-sito/
+Disallow: /content/keyword/
+Disallow: /Bandi-di-gara/
+User-agent: msnbot
+Crawl-delay: 10

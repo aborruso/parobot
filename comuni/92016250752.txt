@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow:
+Allow: /assets/
+Disallow: /controlli/
+Disallow: /css/
+Disallow: /db/
+Disallow: /demo/
+Disallow: /download/
+Disallow: /fonts/
+Allow: /images/
+Disallow: /include/
+Disallow: /js/
+Disallow: /media/
+Disallow: /registration/
+Disallow: /supersized/
+Disallow: /themes/
+Disallow: /ui/
+
+Sitemap: http://www.ceaserresalentine.it/sitemap.xml

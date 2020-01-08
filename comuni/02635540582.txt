@@ -1,6 +1,6 @@
 User-agent: *
- 
- 
+
+
 
 # Sitemap files
 Sitemap: http://comune.casape.rm.it/sitemap.xml

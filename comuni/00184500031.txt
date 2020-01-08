@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /Banner/
+Disallow: /Media/Files/
+Disallow: /layout/set/
+Disallow: /Mappa-del-sito/
+Disallow: /content/keyword/
+Disallow: /Il-Comune/Bandi-di-gara
+Disallow: /Amministrazione-Trasparente
+Disallow: /Amministrazione-Trasparente-OLD
+Disallow: /FILE-DA-NON-INDICIZZARE
+Disallow: /*_graduatoria.xls$
+Disallow: /*_graduatoria.xlsx$
+Disallow: /*_graduatoria.doc$
+Disallow: /*_graduatoria.docx$
+Disallow: /*_graduatoria.pdf$
+Disallow: /*_graduatoria.txt$
+Disallow: /*_graduatoria.zip$

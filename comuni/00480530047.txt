@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /print/
+Disallow: /portale/pratiche/
+Disallow: /portale/albo/
+Disallow: /attivita-promozionali-e-produttive/segreteria-del-sindaco/bandi-di-nomina-per-rappresentanze/
+Disallow: /fileadmin/comune_cuneo/content/amm_organiz/Amministrazione_trasparente/curriculum_nominati/
+Disallow: /fileadmin/comune_cuneo/content/amm_organiz/Amministrazione_trasparente/curriculum_nominati/farmacie_comunali/non_nominati_2016/

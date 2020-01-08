@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /old
-Disallow: /fotovoltaico
-Disallow: /index.php/
-Disallow: /*?*act=
-Disallow: /*?*p=
-Disallow: /web/*?*p=

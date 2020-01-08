@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:/Modulistica/
+Disallow:/immagini/
+Disallow:/Download/
+Disallow:/Persits/
+Disallow:/Scripts/

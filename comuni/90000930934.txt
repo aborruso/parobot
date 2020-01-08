@@ -1,0 +1,4 @@
+file User-agent: *
+Disallow: /*.jpg$
+Disallow: /*.pdf$
+Disallow: /fileadmin/

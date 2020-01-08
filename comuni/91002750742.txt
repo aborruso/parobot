@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /upload/torredisantasusanna/bandi
+Disallow: /upload/torredisantasusanna/delibere
+Disallow: /upload/torredisantasusanna/regolamenti
+Disallow: /albo_pretorio_telematico
+Disallow: /servizi/admin
+Disallow: /central/

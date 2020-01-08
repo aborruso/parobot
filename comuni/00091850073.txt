@@ -1,0 +1,17 @@
+user-agent: AhrefsBot/5.0
+disallow: /
+
+user-agent: AhrefsBot
+disallow: /
+
+User-agent: Yandex
+disallow: /
+
+User-agent: DotBot/1.1
+disallow: /
+
+User-agent: DotBot
+disallow: /
+
+User-agent: MJ12bot
+disallow: /

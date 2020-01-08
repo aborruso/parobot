@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /public/Archivi_PDF/concessioni/
+Disallow: /public/Archivi_PDF/consiglio/
+Disallow: /public/Archivi_PDF/determine/
+Disallow: /public/Archivi_PDF/giunta/
+Disallow: /public/Archivi_PDF/matrimoni/
+Disallow: /public/Archivi_PDF/ordinanze/
+Disallow: /public/Archivi_PDF/vari/
+Disallow: /public/Archivi_PDF/verbali/
+Disallow: /publicazioni/
+Disallow: /mobile/
+Disallow: /moduli/
+Disallow: /modulo/albo/
+Disallow: /default.asp?modulo=albo&t=modulo&file=
+Sitemap: http://www.comune.castrofilippo.ag.it/sitemap.xml

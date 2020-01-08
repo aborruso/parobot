@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /Banner/
+Disallow: /Media/Files/
+Disallow: /layout/set/
+Disallow: /Mappa-del-sito/
+Disallow: /content/keyword/
+Disallow: /Comune/Amministrazione-trasparente/Organizzazione/
+Disallow: /Comune/Amministrazione-trasparente/Consulenti-e-collaboratori/
+Disallow: /Comune/Amministrazione-trasparente/Personale/
+Disallow: /Comune/Amministrazione-trasparente/Performance/
+Disallow: /Comune/Amministrazione-trasparente/Sovvenzioni-contributi-sussidi-vantaggi-economici/

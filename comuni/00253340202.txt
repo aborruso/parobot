@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/gonzaga_ecm8/bandi
+Disallow: /upload/gonzaga_ecm8/delibere
+Disallow: /upload/gonzaga_ecm8/regolamenti
+Disallow: /upload/gonzaga_ecm8/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

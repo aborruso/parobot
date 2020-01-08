@@ -1,5 +1,11 @@
 User-agent: *
-Disallow: /
-
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/gambettola/bandi
+Disallow: /upload/gambettola/delibere
+Disallow: /upload/gambettola/regolamenti
+Disallow: /upload/gambettola/albopretorianorc
 Disallow: /servizi/admin
 Disallow: /central/

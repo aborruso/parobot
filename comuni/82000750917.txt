@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+#Disallow: /files/
+#Disallow: /admin/
+#Sitemap: http://sitoweb.comune.it/sitemap.xml

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /Banner
+Disallow: /Media/Files/
+Disallow: /layout/set/
+Disallow: /Mappa-del-sito/
+Disallow: /Area-Riservata

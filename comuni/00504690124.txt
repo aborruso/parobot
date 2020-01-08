@@ -1,3 +1,0 @@
-Sitemap: http://www.ariadne.it/sitemap-index.xml
-User-agent: *
-Disallow: 

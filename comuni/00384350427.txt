@@ -8,7 +8,7 @@ Disallow: /
 User-agent: Yandex
 Disallow: /
 
-User-agent: * 
+User-agent: *
 #User-agent: all
 Crawl-delay: 5
 

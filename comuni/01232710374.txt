@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /internationalrelations/contenuti/160:21089/
+Disallow: /ambiente/servizi/6:3242/3460/
+Disallow: /node/806

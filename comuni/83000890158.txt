@@ -1,0 +1,13 @@
+#
+# robots.txt For "Portal PA"
+# by Gruppo Si.net
+#
+
+#Regole per tutti gli spider/crawler
+User-Agent: *
+Disallow: /
+Allow: /articoli/
+Allow: /pubblicazioni/
+Allow: /Articoli/
+Allow: /Pubblicazioni/
+Allow: /default.asp

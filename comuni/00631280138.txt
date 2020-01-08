@@ -1,0 +1,12 @@
+
+
+User-agent: *
+Disallow: /admin/
+Disallow: /public/
+Disallow: /templates/
+Disallow: /templates_c/
+Disallow: /phpMyAdmin/
+Disallow: /psend/
+Disallow: /templates/
+Disallow: /smarty-3.0.7/
+

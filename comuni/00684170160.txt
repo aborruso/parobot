@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/albano/bandi
+Disallow: /upload/albano/delibere
+Disallow: /upload/albano/regolamenti
+Disallow: /upload/albano/albopretorianorc
+
+Disallow: /servizi/admin
+Disallow: /central/

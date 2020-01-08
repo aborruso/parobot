@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /admin/
+Disallow: /log/
+Disallow: /search/
+Allow: /includes/themes/
+Allow: /includes/js/

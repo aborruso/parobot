@@ -1,10 +1,10 @@
 User-agent: Googlebot
-Disallow:  /info/
-Disallow:  /search/
+Disallow: /info/
+Disallow: /search/
 
 User-agent: Mediapartners-Google
-Disallow:  /info/
-Disallow:  /search/
+Disallow: /info/
+Disallow: /search/
 
 User-agent: Yahoo! Slurp
 Allow: /$

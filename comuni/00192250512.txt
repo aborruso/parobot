@@ -1,2 +1,6 @@
 User-agent: *
-Disallow: /
+Disallow: /albopretorio/upload
+Disallow: /albopretorio/images
+Disallow: /albopretorio/img
+Disallow: /albopretorio/javascript
+Disallow: /albopretorio/script

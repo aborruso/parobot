@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /albo_pretorio_on_line/
+Allow: /

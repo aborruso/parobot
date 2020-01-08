@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /area_informativa/albo_on_line/
+Disallow: /comingsoon/
+Disallow: /novita/

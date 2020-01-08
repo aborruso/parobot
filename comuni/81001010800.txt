@@ -7,7 +7,7 @@ Disallow: site/_dwn_catalogo/
 Disallow: site/foto/
 Disallow: site/style.css/
 Disallow: site/slides/
-Disallow: site/js/ 
+Disallow: site/js/
 Disallow: site/inc.bar_info.php
 Disallow: site/inc.fancy.php
 Disallow: site/inc.footer.php

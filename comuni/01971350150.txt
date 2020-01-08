@@ -4,8 +4,8 @@
 # @template: squelettes-dist/robots.txt.html
 
 User-agent: *
-Allow:    /local/cache-css/
-Allow:    /local/cache-js/
+Allow: /local/cache-css/
+Allow: /local/cache-js/
 Disallow: /local/
 Disallow: /ecrire/
 Disallow: /plugins-dist/

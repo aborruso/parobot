@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /upload/darfoboarioterme_ecm8/bandi
+Disallow: /upload/darfoboarioterme_ecm8/delibere
+Disallow: /upload/darfoboarioterme_ecm8/regolamenti
+Disallow: /albo_pretorio_telematico
+Disallow: /servizi/admin
+Disallow: /central/
+Disallow: /servizi/old

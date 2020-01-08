@@ -1,7 +1,7 @@
-Sitemap: https://www.comune.valsavarenche.ao.it/sitemap.xml
-Sitemap: https://www.comune.valsavarenche.ao.it/news-sitemap.xml
+Sitemap: http://www.comune.valsavarenche.ao.it/sitemap.xml
+Sitemap: http://www.comune.valsavarenche.ao.it/news-sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://www.comune.valsavarenche.ao.it/sitemap.xml
+Sitemap: http://www.comune.valsavarenche.ao.it/sitemap.xml

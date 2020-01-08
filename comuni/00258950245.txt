@@ -1,2 +1,6 @@
 User-agent: *
-Disallow: /
+Disallow: /error/
+Disallow: /stats/
+Disallow: /awstats/
+Disallow: /typo3/
+Disallow: /typo3conf/

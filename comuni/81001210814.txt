@@ -1,0 +1,10 @@
+# Per tutti i motori di ricerca:
+User-Agent: *
+
+# Per non far indicizzare tutto quello che inizia con wp-
+Disallow: /cms-web
+Disallow: /_files
+Disallow: /_images
+Disallow: /_asset
+
+

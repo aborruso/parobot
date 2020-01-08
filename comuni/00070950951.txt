@@ -1,0 +1,42 @@
+User-agent: *
+Allow: /
+
+user-agent: AhrefsBot
+disallow: /
+
+user-agent: *
+disallow: */admin.php
+
+user-agent: *
+disallow: http://www.albopretorioneoneli.it/modules.php?modulo=mkNews&idcontent=5568
+
+User-agent: *
+Disallow: /themes/comune.simala.or.it/uploads
+
+User-agent: *
+Disallow: /themes/comune.simala.or.it_new/uploads
+
+User-agent: *
+Disallow: /themes/comune.simala.or.it_n/uploads
+
+User-agent: *
+Disallow: /themes/comune.uras.or.it/uploads
+
+User-agent: *
+Disallow: /themes/albopretorioneoneli.it/uploads
+
+User-agent: *
+Disallow: /themes/comune.sannicolodarcidano.or.it/uploads
+
+User-agent: *
+Disallow: /themes/comune.simaxis.or.it/uploads
+
+User-agent: *
+Disallow: /themes/comune.pompu.or.it/uploads
+
+User-agent: *
+Disallow: /albagiara.tharrosnet.it
+
+
+User-agent: *
+Disallow: sondaggio.andrealutzu.it

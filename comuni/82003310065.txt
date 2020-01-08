@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /CMSroot/
+Disallow: /CMSroot2/
+Disallow: /cms/
+Disallow: /cms2/
+Disallow: /Servizi/

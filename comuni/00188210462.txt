@@ -1,0 +1,20 @@
+# Default modx exclusions
+User-agent: *
+Disallow: /assets/.thumbs/
+Disallow: /assets/backup/
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/js/
+Disallow: /assets/libs/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/site/
+Disallow: /assets/snippets/
+Disallow: /assets/templates/
+Disallow: /install/
+Disallow: /manager/
+
+# For sitemaps.xml autodiscovery. Uncomment if you have one:
+Sitemap: http://www.comune.pietrasanta.lu.it/sitemap.xml

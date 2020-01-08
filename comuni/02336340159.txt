@@ -1,5 +1,11 @@
 User-agent: *
-Disallow: /
-
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/biassono_ecm10/bandi
+Disallow: /upload/biassono_ecm10/delibere
+Disallow: /upload/biassono_ecm10/regolamenti
+Disallow: /upload/biassono_ecm10/albopretorianorc
 Disallow: /servizi/admin
 Disallow: /central/

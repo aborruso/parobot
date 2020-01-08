@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretoriointegrato
+Disallow: /servizi/albopretoriointegrato_archivio
+Disallow: /upload/castiglionedeipepoli_ecm8/bandi
+Disallow: /upload/castiglionedeipepoli_ecm8/delibere
+Disallow: /upload/castiglionedeipepoli_ecm8/regolamenti
+Disallow: /upload/castiglionedeipepoli_ecm8/albopretoriointegrato_allegati
+Disallow: /servizi/admin
+Disallow: /central/

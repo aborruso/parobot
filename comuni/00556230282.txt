@@ -1,0 +1,29 @@
+User-agent: Google
+Disallow: /
+
+User-agent: *
+Disallow: /admin.CMS/
+Disallow: /html-1.9/
+Disallow: /biblio.bak/
+Disallow: /biblio.museo/
+Disallow: /biblioteca/
+Disallow: /doc/
+Disallow: /functions/
+Disallow: /images/
+Disallow: /infog/
+Disallow: /jquery/
+Disallow: /lib/
+Disallow: /modules/
+Disallow: /mrbs/
+Disallow: /mrbs.rag/
+Disallow: /pma151270/
+Disallow: /questionario/
+Disallow: /sicoweb/
+Disallow: /suap/
+Disallow: /tmp/
+Disallow: /tributi/
+Disallow: /tributiold/
+Disallow: /tributi.vuoto/
+Disallow: /uploads/
+Disallow: /nuovo/
+

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /amministrazione-trasparente/
+Disallow: /albo-old-1/

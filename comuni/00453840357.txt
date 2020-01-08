@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /flex/tmp/
+Disallow: /flex/Logs/
+Crawl-delay: 2

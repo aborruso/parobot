@@ -1,0 +1,18 @@
+# Exclude Files From All Robots:
+
+User-agent: *
+Disallow: /admin/
+Disallow: /plugins/
+Disallow: /plugins_models/
+Disallow: /cache/
+Disallow: /core/
+Disallow: /framework/
+Disallow: /languages/
+Disallow: /templates/
+Disallow: /resources/
+Disallow: /uploads/avcp/
+Disallow: /*.pdf$
+
+
+
+# End robots.txt file

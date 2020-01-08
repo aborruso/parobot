@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /Management/
+Disallow: /Cabs/
+Disallow: /Bin/
+Disallow: /Connections/
+Disallow: /Doc/
+Disallow: /editor/
+Disallow: /fckEditor/
+Disallow: /Filemanager/
+Disallow: /MailDoc/
+Disallow: /tmp/
+Disallow: /updates/
+Disallow: /WebMail/
+Disallow: /printLargeBox.asp
+Disallow: /RequestPrint.asp
+Disallow: /ReqTracking.asp
+Disallow: /ReqWFTracking.asp

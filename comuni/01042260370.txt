@@ -1,6 +1,11 @@
 User-agent: *
-Disallow: /
-
-
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/casteldicasio_ecm10/bandi
+Disallow: /upload/casteldicasio_ecm10/delibere
+Disallow: /upload/casteldicasio_ecm10/regolamenti
+Disallow: /upload/casteldicasio_ecm10/albopretorianorc
 Disallow: /servizi/admin
 Disallow: /central/

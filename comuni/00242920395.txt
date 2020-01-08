@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /Banner/
+Disallow: /Comune/Albo-Pretorio/
+Disallow: /Media/Files/
+Disallow: /layout/set/
+Disallow: /Mappa-del-sito/
+Disallow: /content/keyword/

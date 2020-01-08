@@ -1,5 +1,16 @@
 User-agent: *
-Disallow: /
 
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /servizi/albopretoriointegrato
+Disallow: /servizi/albopretoriointegrato_archivio
+Disallow: /upload/camugnano/bandi
+Disallow: /upload/camugnano/delibere
+Disallow: /upload/camugnano/regolamenti
+Disallow: /upload/camugnano/albopretorianorc
+Disallow: /upload/camugnano/albopretorio
+Disallow: /upload/camugnano/albopretorio_allegati/
 Disallow: /servizi/admin
 Disallow: /central/

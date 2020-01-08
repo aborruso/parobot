@@ -13,7 +13,7 @@
 
 
 User-agent: *
-Allow: / 
+Allow: /
 #Disallow:
 Disallow: /administrator/
 Disallow: /cache/

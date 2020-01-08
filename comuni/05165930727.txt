@@ -1,5 +1,12 @@
 User-agent: *
-Disallow: /
 
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/noicattaro/bandi
+Disallow: /upload/noicattaro/delibere
+Disallow: /upload/noicattaro/regolamenti
+Disallow: /upload/noicattaro/albopretorianorc
 Disallow: /servizi/admin
 Disallow: /central/

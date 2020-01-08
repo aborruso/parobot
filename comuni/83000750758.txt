@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin
+Disallow: /captcha
+Disallow: /menu
+Disallow: /imemail
+Disallow: /pcss
+Disallow: /res
+Disallow: /style
+Disallow: /news
+
+Sitemap: http://localhost/sitemap.xml

@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/montirone/bandi
+Disallow: /upload/montirone/delibere
+Disallow: /upload/montironemontirone/regolamenti
+Disallow: /upload/montirone/albopretorianorc
+Disallow: /servizi/admin
+Disallow: /central/

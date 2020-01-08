@@ -1,5 +1,9 @@
 User-agent: *
-Disallow: /
-
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /upload/grizzana_morandi/bandi
+Disallow: /upload/grizzana_morandi/delibere
+Disallow: /upload/grizzana_morandi/regolamenti
 Disallow: /servizi/admin
 Disallow: /central/

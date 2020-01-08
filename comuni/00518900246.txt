@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /news.php?c=1209
+Disallow: /news.php?c=1527
+Disallow: /*.PDF
+Disallow: /*.ZIP
+Disallow: /*.pdf
+Disallow: /*.zip

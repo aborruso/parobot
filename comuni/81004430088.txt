@@ -1,4 +1,4 @@
-User-agent: * 
+User-agent: *
 Disallow: /administrator/
 Disallow: /cache/
 Disallow: /components/
@@ -13,4 +13,3 @@ Disallow: /modules/
 Disallow: /templates/
 Disallow: /installation/
 
- 

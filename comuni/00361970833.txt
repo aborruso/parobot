@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /comuni/furnari/bando.asp
+Disallow: /comuni/furnari/bando_e.asp
+Disallow: /comuni/furnari/bando_t.asp
+Disallow: /comuni/furnari/delibconsiglio.asp
+Disallow: /comuni/furnari/delibconsiglio_t.asp
+Disallow: /comuni/furnari/delibgiunta.asp
+Disallow: /comuni/furnari/delibgiunta_t.asp
+Disallow: /comuni/furnari/determina.asp
+Disallow: /comuni/furnari/determina_t.asp
+Disallow: /comuni/furnari/ordinanza.asp
+Disallow: /comuni/furnari/ordinanza_t.asp
+Disallow: /comuni/img/comune/allegato/

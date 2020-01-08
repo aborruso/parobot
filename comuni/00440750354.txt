@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /servizi/bandi
+Disallow: /servizi/delibere
+Disallow: /servizi/regolamenti
+Disallow: /servizi/albopretorianorc
+Disallow: /upload/rolo_ecm8/bandi
+Disallow: /upload/rolo_ecm8/delibere
+Disallow: /upload/rolo_ecm8/regolamenti
+Disallow: /upload/rolo_ecm8/albopretorianorc
+
+Disallow: /servizi/admin
+Disallow: /central/

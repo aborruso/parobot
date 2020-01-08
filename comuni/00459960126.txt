@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /albo-pretorio
+Disallow: /bandi-e-gare
+Disallow: /concorsi-e-selezioni
+Disallow: /ordinanze
+Disallow: /delibere-di-giunta
+Disallow: /concessioni-edilizie
+Disallow: /regolamenti-comunali
+Disallow: /pubblicazioni-matrimoni
+Disallow: /atti-vari
+Disallow: /wp-admin

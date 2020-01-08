@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: */data
+Disallow: */pratiche/getDoc.php
+Disallow: */albo/getDoc.php
+Disallow: */albo/albo_pretorio.php
+Disallow: */albo/albo_pretorio_tipologia.php
+Disallow: */albo/albo_pretorio_matrimonio.php
+Disallow: */albo/albo_dettagli.php
+Disallow: */portal/getDoc.php

@@ -1,5 +1,5 @@
-Sitemap: https://soveria.it/sitemap.xml
-Sitemap: https://soveria.it/news-sitemap.xml
+Sitemap: http://soveria.it/sitemap.xml
+Sitemap: http://soveria.it/news-sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php

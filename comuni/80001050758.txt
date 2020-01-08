@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: http://www.comune.squinzano.le.it/sitemap.xml

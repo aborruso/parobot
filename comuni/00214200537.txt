@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: http://www.comune.civitellapaganico.gr.it/sitemaps/sitemap.xml

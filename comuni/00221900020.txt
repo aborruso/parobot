@@ -1,2 +1,105 @@
-﻿User-agent: *
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used: http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /web/includes/
+Disallow: /web/misc/
+Disallow: /web/modules/
+Disallow: /web/profiles/
+Disallow: /web/scripts/
+Disallow: /web/themes/
+# Files
+Disallow: /web/CHANGELOG.txt
+Disallow: /web/cron.php
+Disallow: /web/INSTALL.mysql.txt
+Disallow: /web/INSTALL.pgsql.txt
+Disallow: /web/INSTALL.sqlite.txt
+Disallow: /web/install.php
+Disallow: /web/INSTALL.txt
+Disallow: /web/LICENSE.txt
+Disallow: /web/MAINTAINERS.txt
+Disallow: /web/update.php
+Disallow: /web/UPGRADE.txt
+Disallow: /web/xmlrpc.php
+# Paths (clean URLs)
+Disallow: /web/admin/
+Disallow: /web/comment/reply/
+Disallow: /web/filter/tips/
+Disallow: /web/node/add/
+Disallow: /web/search/
+Disallow: /web/user/register/
+Disallow: /web/user/password/
+Disallow: /web/user/login/
+Disallow: /web/user/logout/
+# Paths (no clean URLs)
+Disallow: /web/?q=admin/
+Disallow: /web/?q=comment/reply/
+Disallow: /web/?q=filter/tips/
+Disallow: /web/?q=node/add/
+Disallow: /web/?q=search/
+Disallow: /web/?q=user/password/
+Disallow: /web/?q=user/register/
+Disallow: /web/?q=user/login/
+Disallow: /web/?q=user/logout/
+# URL della funzione stampa dei book da non indicizzare
+Disallow: /web/book/export/
+# Pagina 404 di cortesia
+Disallow: /web/404
+Disallow: /web/404?
+Disallow: /web/403
+
+# spambot
+User-agent: MJ12bot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: YandexBot
+Disallow: /
+User-agent: Zombiebot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: istellabot
+Disallow: /
+User-agent: Mail.RU_Bot
+Disallow: /
+User-agent: SeznamBot
+Disallow: /
+User-agent: trendictionbot0.5.0
+Disallow: /
+User-agent: Zombiebot
+Disallow: /
+User-agent: BUbiNG
+Disallow: /
+User-agent: MojeekBot
+Disallow: /
+User-agent: archive.org_bot
+Disallow: /
+User-agent: coccocbot-web
+Disallow: /
+User-agent: YandexImages
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: DuckDuckGo-Favicons-Bot
+Disallow: /
+User-agent: KomodiaBot
+Disallow: /
+User-agent: spbot
+Disallow: /
+User-agent: AhrefsBot
 Disallow: /

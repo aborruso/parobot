@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /Banner/
+Disallow: /Open-Data/
+Disallow: /Albo-Pretorio/
+Disallow: /phpattivo
+Disallow: /Media/
+Disallow: /layout/set/
+Disallow: /Mappa-del-sito/
+Disallow: /content/keyword/
+Disallow: /OD-Dati-ckan
+User-agent: msnbot
+Crawl-delay: 10

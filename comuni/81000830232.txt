@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /web-comuni-new
-Disallow: /Web-comuni-new

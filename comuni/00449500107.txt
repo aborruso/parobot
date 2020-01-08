@@ -1,7 +1,7 @@
 
 User-agent: *
 
-Sitemap: https://www.comune.arenzano.ge.it/sitemap.xml
+Sitemap: //www.comune.arenzano.ge.it/sitemap.xml
 
 Disallow: /doc/
 Disallow: /install/

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.comune.castrocielo.fr.it/amaps.xml
+Sitemap: http://www.comune.castrocielo.fr.it/wb-loves1.xml
+Sitemap: http://www.comune.castrocielo.fr.it/wb-loves2.xml
+Sitemap: http://www.comune.castrocielo.fr.it/wb-loves3.xml
+Sitemap: http://www.comune.castrocielo.fr.it/wb-loves4.xml
