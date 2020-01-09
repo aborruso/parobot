@@ -51,4 +51,4 @@ mlr --csv cut -x -f stringa \
   then reshape -r "[^(cf)]" -o item,value \
   then filter -x '$value==""' \
   then reshape -s item,value \
-  then unsparsify comuni/alert.csv >"$folder"/comuni/alertReport.csv
+  then unsparsify "$folder"/comuni/alert.csv >"$folder"/comuni/alertReport.csv
