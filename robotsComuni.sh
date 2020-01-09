@@ -31,6 +31,24 @@ mlr --csv join --ul -j cf -l cf -r CF -f "$folder"/tmp_report.csv then unsparsif
 
 ls -1a "$folder"/comuni/*txt | mlr --csv --implicit-csv-header then put '$1=regextract($1,"[0-9]{6,}")' then label cf then put '$robots="x"' >"$folder"/tmp_robots.csv
 
-mlr --csv join --ul -j cf -f "$folder"/tmp_report01.csv then unsparsify then sort -f cf then put -S 'if( $robots == "x") {$URLrobots=("https://raw.githubusercontent.com/aborruso/parobot/master/comuni/".$cf.".txt")} else {$URLrobots=""}' then reorder -f cf,Regione,Provincia,des_amm,URLrobots "$folder"/tmp_robots.csv >"$folder"/report.csv
+mlr --csv join --ul -j cf -f "$folder"/tmp_report01.csv \
+  then unsparsify \
+  then sort -f cf \
+  then put -S 'if( $robots == "x") {$URLrobots=("https://raw.githubusercontent.com/aborruso/parobot/master/comuni/".$cf.".txt")} else {$URLrobots=""}' \
+  then reorder -f cf,Regione,Provincia,des_amm,URLrobots then cut -x -f url "$folder"/tmp_robots.csv >"$folder"/report.csv
 
 rm "$folder"/tmp*
+
+# genera alert
+grep -o -E 'Disallow:.+(amministraz|trasparenz|contratt|selezion|avvis).*' "$folder"/comuni/*.txt |
+  sed 's/Disallow://g' |
+  mlr --csv --implicit-csv-header --ifs "txt" put 'if ($2=~"amministraz"){$amministraz="x"} elif ($2=~"trasparenz") {$trasparenz="x"} elif ($2=~"contratt") {$contratt="x"} elif ($2=~"avvis") {$avvis="x"} elif ($2=~"selezion") {$selezion="x"}' \
+    then put '$1=regextract($1,"[0-9]{6,}");$2=gsub($2," ?: ","")' \
+    then unsparsify then label cf,stringa >"$folder"/comuni/alert.csv
+
+mlr --csv cut -x -f stringa \
+  then uniq -a \
+  then reshape -r "[^(cf)]" -o item,value \
+  then filter -x '$value==""' \
+  then reshape -s item,value \
+  then unsparsify comuni/alert.csv >"$folder"/comuni/alertReport.csv
