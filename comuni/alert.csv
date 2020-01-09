@@ -1,4 +1,4 @@
-cf,stringa,trasparenz,amministraz,avvis,selezion,contratt
+cf,stringa,trasparen,amministraz,avvis,selezion,contratt
 00034670943,/trasparenza/,x,,,,
 00102500527,/bacheca/amministrazione-trasparente-dati-relativi-al-2013-2014-e-al-2015,,x,,,
 00102500527,/it/bacheca/amministrazione-trasparente-dati-relativi-al-2013-2014-e-al-2015,,x,,,
@@ -14035,6 +14035,8 @@ cf,stringa,trasparenz,amministraz,avvis,selezion,contratt
 00459960126,/concorsi-e-selezioni,,,,x,
 00462560756,/multisites/maglie/amministrazione-trasparente/bandi-di-concorso,,x,,,
 00463680751,/amministrazione/accesso-rapido/albo-pretorio,,x,,,
+00480530047,/fileadmin/comune_cuneo/content/amm_organiz/Amministrazione_trasparente/curriculum_nominati/,x,,,,
+00480530047,/fileadmin/comune_cuneo/content/amm_organiz/Amministrazione_trasparente/curriculum_nominati/farmacie_comunali/non_nominati_2016/,x,,,,
 00516890241,/uffici/dipgenpers/provveditoratogarecontratti/provveditorato/oggetti/oggetti-rinvenuti.php,,,,,x
 00516890241,/amministrazione/areaconsiglio/,,x,,,
 00754860377,/aree-tematiche/il-comune/amministrazione-trasparente/bandi-di-gara-e-contratti/progetto-firmato-digitalmente/view,,x,,,
@@ -15268,6 +15270,11 @@ cf,stringa,trasparenz,amministraz,avvis,selezion,contratt
 80006270872,/trasparenza/,x,,,,
 80007530738,/multisites/maglie/amministrazione-trasparente/bandi-di-concorso,,x,,,
 80008170757,/amministrazione/accesso-rapido/albo-pretorio,,x,,,
+80008270375,/Comune/Amministrazione-trasparente/Organizzazione/,x,,,,
+80008270375,/Comune/Amministrazione-trasparente/Consulenti-e-collaboratori/,x,,,,
+80008270375,/Comune/Amministrazione-trasparente/Personale/,x,,,,
+80008270375,/Comune/Amministrazione-trasparente/Performance/,x,,,,
+80008270375,/Comune/Amministrazione-trasparente/Sovvenzioni-contributi-sussidi-vantaggi-economici/,x,,,,
 80008470751,/multisites/maglie/amministrazione-trasparente/bandi-di-concorso,,x,,,
 80008830756,/amministrazione/accesso-rapido/albo-pretorio,,x,,,
 80008850754,/amministrazione/accesso-rapido/albo-pretorio,,x,,,
