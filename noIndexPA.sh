@@ -24,8 +24,7 @@ grep -l -E 'meta.+noindex' "$folder"/bussolaPA/*.txt | grep -oE '[0-9]+' >"$fold
 mlr -I --tsv --implicit-csv-header label n bussolaPA/alertnoindex.tsv
 
 # crea report Amministrazion Trasparente Bussola
-csvsql -d ";" -I -u=0 --query "select * from amministrazionTrasparente" "$folder"/amministrazionTrasparente.csv >"$folder"/tmp.csv
-cat "$folder"/tmp.csv >"$folder"/amministrazionTrasparente.csv
+mlr -I --icsvlite --ocsv --ifs ";" uniq -a  then clean-whitespace "$folder"/amministrazionTrasparente.csv
 mlr --tsv --implicit-csv-header then label n,URL "$folder"/bussolaPA/amministrazionTrasparenteURL.tsv >"$folder"/bussolaPA/tmp_source.tsv
 mlr --t2c join --ul -j n -f "$folder"/bussolaPA/alertnoindex.tsv then unsparsify "$folder"/bussolaPA/tmp_source.tsv >"$folder"/bussolaPA/alertnoindexURL.csv
 mlr --csv join --ul -j Link -l Link -r URL -f "$folder"/amministrazionTrasparente.csv \
